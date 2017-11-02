@@ -1,7 +1,7 @@
 <Cloud><_MOD_>2011-12-14</_MOD_>
 <Name>Cloud</Name>
 <Type>8717</Type>
-<Dirty>1</Dirty>
+<Dirty>0</Dirty>
 <Owndata>1</Owndata>
 <TID>8717</TID>
 <Size>11</Size>
@@ -6958,7 +6958,7 @@ To Sparge add:
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </F_C_RECIPE>
 </Cloud>
-<Cloud><_MOD_>1969-12-31</_MOD_>
+<Cloud><_MOD_>2017-10-28</_MOD_>
 <F_R_NAME>Tory Row IPA (2.0)</F_R_NAME>
 <F_R_BREWER>John O&#39;Connor</F_R_BREWER>
 <F_R_STYLE_NAME>English IPA</F_R_STYLE_NAME>
@@ -7077,7 +7077,7 @@ To Sparge add:
 <F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
 <F_MH_BIAB>0</F_MH_BIAB>
 <F_MH_NOTES>Simple single infusion mash for use with most modern well modified grains (about 95% of the time).</F_MH_NOTES>
-<steps><_MOD_>1969-12-31</_MOD_>
+<steps><_MOD_>2017-10-28</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
 <Dirty>1</Dirty>
@@ -7113,7 +7113,7 @@ To Sparge add:
 <F_MH_TUN_MASS>251.2000000</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.3000000</F_MH_TUN_HC>
 </F_R_MASH>
-<F_R_BASE_GRAIN><_MOD_>1969-12-31</_MOD_>
+<F_R_BASE_GRAIN><_MOD_>2017-10-28</_MOD_>
 <F_G_NAME>Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -7148,7 +7148,7 @@ To Sparge add:
 <F_C_CARB_RATE>100.0000000</F_C_CARB_RATE>
 <F_C_NOTES>Keg with forced carbonation which is the method used by most home brewers with kegs</F_C_NOTES>
 </F_R_CARB>
-<F_R_AGE><_MOD_>1969-12-31</_MOD_>
+<F_R_AGE><_MOD_>2017-10-28</_MOD_>
 <F_A_NAME>Ale, Two Stage</F_A_NAME>
 <F_A_PRIM_TEMP>67.0000000</F_A_PRIM_TEMP>
 <F_A_PRIM_END_TEMP>67.0000000</F_A_PRIM_END_TEMP>
@@ -7166,7 +7166,7 @@ To Sparge add:
 <F_A_TYPE>1</F_A_TYPE>
 <F_A_NOTES></F_A_NOTES>
 </F_R_AGE>
-<Ingredients><_MOD_>1969-12-31</_MOD_>
+<Ingredients><_MOD_>2017-10-28</_MOD_>
 <Name>Ingredients</Name>
 <Type>7405</Type>
 <Dirty>1</Dirty>
@@ -7324,7 +7324,7 @@ To Sparge add:
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>8</F_ORDER>
 </Misc>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-28</_MOD_>
 <F_G_NAME>Pale Malt, Maris Otter</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER>Maris Otter</F_G_SUPPLIER>
@@ -7351,7 +7351,7 @@ To Sparge add:
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-28</_MOD_>
 <F_G_NAME>Caramel Malt - 60L (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -7383,7 +7383,7 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-28</_MOD_>
 <F_G_NAME>Amber Malt</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -7410,7 +7410,7 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Caramel/Crystal Malt - 20L</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-28</_MOD_>
 <F_G_NAME>Wheat, Torrified</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -7527,7 +7527,7 @@ Examples: Samuel Smith&#39;s Pale Ale, Old Peculiar, Thomas Hardy&#39;s Ale</F_H
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>1969-12-31</_MOD_>
+<Yeast><_MOD_>2017-10-28</_MOD_>
 <F_Y_NAME>Thames Valley Ale</F_Y_NAME>
 <F_Y_LAB>Wyeast Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>1275</F_Y_PRODUCT_ID>
@@ -7607,7 +7607,7 @@ Examples: Bass Pale Ale, Fullers ESB, Samual Smith&#39;s Pale Ale</F_H_NOTES>
 </Data>
 <_TExpanded>1</_TExpanded>
 </Ingredients>
-<AgeData><_MOD_>1969-12-31</_MOD_>
+<AgeData><_MOD_>2017-10-28</_MOD_>
 <Name>AgeData</Name>
 <Type>9361</Type>
 <Dirty>0</Dirty>

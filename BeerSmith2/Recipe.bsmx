@@ -1,7 +1,7 @@
 <Recipe><_MOD_>2011-06-07</_MOD_>
 <Name>Recipe</Name>
 <Type>7372</Type>
-<Dirty>1</Dirty>
+<Dirty>0</Dirty>
 <Owndata>0</Owndata>
 <TID>7372</TID>
 <Size>11</Size>
@@ -97,7 +97,7 @@ Mouthfeel: Medium-light to medium body. Medium-high to high carbonation. May hav
 <F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
 <F_MH_BIAB>0</F_MH_BIAB>
 <F_MH_NOTES>Simple single infusion mash for use with most modern well modified grains (about 95% of the time).</F_MH_NOTES>
-<steps><_MOD_>1969-12-31</_MOD_>
+<steps><_MOD_>2017-10-29</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
 <Dirty>1</Dirty>
@@ -133,7 +133,7 @@ Mouthfeel: Medium-light to medium body. Medium-high to high carbonation. May hav
 <F_MH_TUN_MASS>251.2000000</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.1950000</F_MH_TUN_HC>
 </F_R_MASH>
-<F_R_BASE_GRAIN><_MOD_>1969-12-31</_MOD_>
+<F_R_BASE_GRAIN><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -186,7 +186,7 @@ Mouthfeel: Medium-light to medium body. Medium-high to high carbonation. May hav
 <F_A_TYPE>1</F_A_TYPE>
 <F_A_NOTES></F_A_NOTES>
 </F_R_AGE>
-<Ingredients><_MOD_>1969-12-31</_MOD_>
+<Ingredients><_MOD_>2017-10-29</_MOD_>
 <Name>Ingredients</Name>
 <Type>7405</Type>
 <Dirty>1</Dirty>
@@ -195,7 +195,7 @@ Mouthfeel: Medium-light to medium body. Medium-high to high carbonation. May hav
 <Size>12</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>1969-12-31</_MOD_>
+<Data><Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Pale Malt (2 Row) US</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -222,7 +222,7 @@ Mouthfeel: Medium-light to medium body. Medium-high to high carbonation. May hav
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Wheat - White Malt (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -252,7 +252,7 @@ White Wheat Malt contributes to foam production and foam stability.</F_G_NOTES>
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>DME Wheat Bavarian (Briess)</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Wheat - Red Malt (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -282,7 +282,7 @@ White Wheat Malt contributes to foam production and foam stability.</F_G_NOTES>
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>DME Wheat Bavarian (Briess)</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Carapils (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -314,7 +314,7 @@ Low usage of 1-5% will help achieve desired resu</F_G_NOTES>
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Caramel Malt - 10L (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -370,7 +370,7 @@ Examples: Bass Pale Ale, Fullers ESB, Samual Smith&#39;s Pale Ale
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Agave Nectar - Raw</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -455,7 +455,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>10</F_ORDER>
 </Misc>
-<Yeast><_MOD_>1969-12-31</_MOD_>
+<Yeast><_MOD_>2017-10-29</_MOD_>
 <F_Y_NAME>American Hefeweizen Ale</F_Y_NAME>
 <F_Y_LAB>White Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>WLP320</F_Y_PRODUCT_ID>
@@ -509,7 +509,7 @@ Substitutes: N/A</F_H_NOTES>
 </Data>
 <_TExpanded>1</_TExpanded>
 </Ingredients>
-<AgeData><_MOD_>1969-12-31</_MOD_>
+<AgeData><_MOD_>2017-10-29</_MOD_>
 <Name>AgeData</Name>
 <Type>9361</Type>
 <Dirty>0</Dirty>
@@ -655,7 +655,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
 <F_MH_BIAB>0</F_MH_BIAB>
 <F_MH_NOTES>Simple single infusion mash for use with most modern well modified grains (about 95% of the time).</F_MH_NOTES>
-<steps><_MOD_>1969-12-31</_MOD_>
+<steps><_MOD_>2017-10-29</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
 <Dirty>1</Dirty>
@@ -691,7 +691,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_MH_TUN_MASS>251.2000000</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.1950000</F_MH_TUN_HC>
 </F_R_MASH>
-<F_R_BASE_GRAIN><_MOD_>1969-12-31</_MOD_>
+<F_R_BASE_GRAIN><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -726,7 +726,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_C_CARB_RATE>100.0000000</F_C_CARB_RATE>
 <F_C_NOTES>Keg with forced carbonation which is the method used by most home brewers with kegs</F_C_NOTES>
 </F_R_CARB>
-<F_R_AGE><_MOD_>1969-12-31</_MOD_>
+<F_R_AGE><_MOD_>2017-10-29</_MOD_>
 <F_A_NAME>Ale, Two Stage</F_A_NAME>
 <F_A_PRIM_TEMP>67.0000000</F_A_PRIM_TEMP>
 <F_A_PRIM_END_TEMP>67.0000000</F_A_PRIM_END_TEMP>
@@ -744,7 +744,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_A_TYPE>1</F_A_TYPE>
 <F_A_NOTES></F_A_NOTES>
 </F_R_AGE>
-<Ingredients><_MOD_>1969-12-31</_MOD_>
+<Ingredients><_MOD_>2017-10-29</_MOD_>
 <Name>Ingredients</Name>
 <Type>7405</Type>
 <Dirty>1</Dirty>
@@ -794,7 +794,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>2</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Gypsum (Calcium Sulfate)</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -848,7 +848,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>5</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Pickling Lime</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Add Calcium and Carbonate to water</F_M_USE_FOR>
@@ -884,7 +884,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>7</F_ORDER>
 </Misc>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Pilsner (2 Row) Bel</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -911,7 +911,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pilsner Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Caramunich Malt</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -938,7 +938,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Rye Malt (Weyermann)</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER>Weyermann</F_G_SUPPLIER>
@@ -965,7 +965,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Caramel Rye (Weyermann)</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Wheat Malt, Bel</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -992,7 +992,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Wheat Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Acidulated (Weyermann)</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER>Weyermann</F_G_SUPPLIER>
@@ -1119,7 +1119,7 @@ Storage: Poor
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.8900000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Whirlfloc Tablet</F_M_NAME>
 <F_M_TYPE>1</F_M_TYPE>
 <F_M_USE_FOR>Clarity</F_M_USE_FOR>
@@ -1155,7 +1155,7 @@ Storage: Poor
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>18</F_ORDER>
 </Misc>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Candi Syrup, D-45</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Candi Syrup</F_G_SUPPLIER>
@@ -1273,7 +1273,7 @@ Substitutes: Fuggles, Williamette</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>1969-12-31</_MOD_>
+<Yeast><_MOD_>2017-10-29</_MOD_>
 <F_Y_NAME>Belgian Saison</F_Y_NAME>
 <F_Y_LAB>Wyeast Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>3724</F_Y_PRODUCT_ID>
@@ -1302,7 +1302,7 @@ Substitutes: Fuggles, Williamette</F_H_NOTES>
 <F_Y_NOTES>Classic farmhouse ale yeast.  Spicy, complex aromatics including bubble gum.  Tart and dry on the palate with mild fruitiness.  Finishes crisp and mildly acidic.  Ferment at warm temperature.  May have vigorous fermentation start.</F_Y_NOTES>
 <F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
 </Yeast>
-<Yeast><_MOD_>1969-12-31</_MOD_>
+<Yeast><_MOD_>2017-10-29</_MOD_>
 <F_Y_NAME>Belgian Saison I Ale</F_Y_NAME>
 <F_Y_LAB>White Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>WLP565</F_Y_PRODUCT_ID>
@@ -1334,7 +1334,7 @@ Substitutes: Fuggles, Williamette</F_H_NOTES>
 </Data>
 <_TExpanded>1</_TExpanded>
 </Ingredients>
-<AgeData><_MOD_>1969-12-31</_MOD_>
+<AgeData><_MOD_>2017-10-29</_MOD_>
 <Name>AgeData</Name>
 <Type>9361</Type>
 <Dirty>0</Dirty>
@@ -1418,7 +1418,7 @@ Sparge = 7 gallons 2650 ml</F_R_NOTES>
 <Image></Image>
 <F_R_IMAGE_X>0</F_R_IMAGE_X>
 <F_R_IMAGE_Y>0</F_R_IMAGE_Y>
-<F_R_EQUIPMENT><_MOD_>1969-12-31</_MOD_>
+<F_R_EQUIPMENT><_MOD_>2017-10-29</_MOD_>
 <F_E_NAME>Square House Brew House</F_E_NAME>
 <F_E_MASH_VOL>1920.0000000</F_E_MASH_VOL>
 <F_E_TUN_MASS>251.2000000</F_E_TUN_MASS>
@@ -1487,7 +1487,7 @@ Sparge = 7 gallons 2650 ml</F_R_NOTES>
 <F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
 <F_MH_BIAB>0</F_MH_BIAB>
 <F_MH_NOTES>Simple single infusion mash for use with most modern well modified grains (about 95% of the time).</F_MH_NOTES>
-<steps><_MOD_>1969-12-31</_MOD_>
+<steps><_MOD_>2017-10-29</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
 <Dirty>1</Dirty>
@@ -1523,7 +1523,7 @@ Sparge = 7 gallons 2650 ml</F_R_NOTES>
 <F_MH_TUN_MASS>251.2000000</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.1950000</F_MH_TUN_HC>
 </F_R_MASH>
-<F_R_BASE_GRAIN><_MOD_>1969-12-31</_MOD_>
+<F_R_BASE_GRAIN><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -1576,7 +1576,7 @@ Sparge = 7 gallons 2650 ml</F_R_NOTES>
 <F_A_TYPE>1</F_A_TYPE>
 <F_A_NOTES></F_A_NOTES>
 </F_R_AGE>
-<Ingredients><_MOD_>1969-12-31</_MOD_>
+<Ingredients><_MOD_>2017-10-29</_MOD_>
 <Name>Ingredients</Name>
 <Type>7405</Type>
 <Dirty>1</Dirty>
@@ -1626,7 +1626,7 @@ Sparge = 7 gallons 2650 ml</F_R_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>2</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Chalk</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -1644,7 +1644,7 @@ Sparge = 7 gallons 2650 ml</F_R_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>3</F_ORDER>
 </Misc>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Pale Malt, Maris Otter</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER>Maris Otter</F_G_SUPPLIER>
@@ -1671,7 +1671,7 @@ Sparge = 7 gallons 2650 ml</F_R_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Munich Malt</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -1700,7 +1700,7 @@ Use for: Bock, Porter, Marzen, Oktoberfest beers</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Amber Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Caramel Malt - 60L (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -1732,7 +1732,7 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Acidulated (Weyermann)</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER>Weyermann</F_G_SUPPLIER>
@@ -1779,7 +1779,7 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Mosaic</F_H_NAME>
 <F_H_ORIGIN>US</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -1799,7 +1799,7 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Mosaic</F_H_NAME>
 <F_H_ORIGIN>US</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -1837,7 +1837,7 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>11</F_ORDER>
 </Misc>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Mosaic</F_H_NAME>
 <F_H_ORIGIN>US</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -1857,7 +1857,7 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>1969-12-31</_MOD_>
+<Yeast><_MOD_>2017-10-29</_MOD_>
 <F_Y_NAME>American Ale II</F_Y_NAME>
 <F_Y_LAB>Wyeast Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>1272</F_Y_PRODUCT_ID>
@@ -1889,7 +1889,7 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 </Data>
 <_TExpanded>1</_TExpanded>
 </Ingredients>
-<AgeData><_MOD_>1969-12-31</_MOD_>
+<AgeData><_MOD_>2017-10-29</_MOD_>
 <Name>AgeData</Name>
 <Type>9361</Type>
 <Dirty>0</Dirty>
@@ -1966,7 +1966,7 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 <Image></Image>
 <F_R_IMAGE_X>0</F_R_IMAGE_X>
 <F_R_IMAGE_Y>0</F_R_IMAGE_Y>
-<F_R_EQUIPMENT><_MOD_>1969-12-31</_MOD_>
+<F_R_EQUIPMENT><_MOD_>2017-10-29</_MOD_>
 <F_E_NAME>Square House Brew House</F_E_NAME>
 <F_E_MASH_VOL>1920.0000000</F_E_MASH_VOL>
 <F_E_TUN_MASS>251.2000000</F_E_TUN_MASS>
@@ -2037,7 +2037,7 @@ Comments: Gravities are low in England, higher in exported and US products. Vari
 <F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
 <F_MH_BIAB>0</F_MH_BIAB>
 <F_MH_NOTES>Simple single infusion mash for use with most modern well modified grains (about 95% of the time).</F_MH_NOTES>
-<steps><_MOD_>1969-12-31</_MOD_>
+<steps><_MOD_>2017-10-29</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
 <Dirty>1</Dirty>
@@ -2073,7 +2073,7 @@ Comments: Gravities are low in England, higher in exported and US products. Vari
 <F_MH_TUN_MASS>251.2000000</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.3000000</F_MH_TUN_HC>
 </F_R_MASH>
-<F_R_BASE_GRAIN><_MOD_>1969-12-31</_MOD_>
+<F_R_BASE_GRAIN><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -2108,7 +2108,7 @@ Comments: Gravities are low in England, higher in exported and US products. Vari
 <F_C_CARB_RATE>100.0000000</F_C_CARB_RATE>
 <F_C_NOTES>Use corn sugar for priming the beer</F_C_NOTES>
 </F_R_CARB>
-<F_R_AGE><_MOD_>1969-12-31</_MOD_>
+<F_R_AGE><_MOD_>2017-10-29</_MOD_>
 <F_A_NAME>Ale, Two Stage</F_A_NAME>
 <F_A_PRIM_TEMP>67.0000000</F_A_PRIM_TEMP>
 <F_A_PRIM_END_TEMP>67.0000000</F_A_PRIM_END_TEMP>
@@ -2126,7 +2126,7 @@ Comments: Gravities are low in England, higher in exported and US products. Vari
 <F_A_TYPE>1</F_A_TYPE>
 <F_A_NOTES></F_A_NOTES>
 </F_R_AGE>
-<Ingredients><_MOD_>1969-12-31</_MOD_>
+<Ingredients><_MOD_>2017-10-29</_MOD_>
 <Name>Ingredients</Name>
 <Type>7405</Type>
 <Dirty>1</Dirty>
@@ -2135,7 +2135,7 @@ Comments: Gravities are low in England, higher in exported and US products. Vari
 <Size>11</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>1969-12-31</_MOD_>
+<Data><Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Pale Malt, Maris Otter</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER>Maris Otter</F_G_SUPPLIER>
@@ -2162,7 +2162,7 @@ Comments: Gravities are low in England, higher in exported and US products. Vari
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Chocolate (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -2194,7 +2194,7 @@ other Dark </F_G_NOTES>
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Caramel Malt - 60L (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -2226,7 +2226,7 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Munich 10L (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -2256,7 +2256,7 @@ Small amounts added to the grist will improve the malty flavor and give a richer
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>DME Sparklinf Amber (Briess)</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Roasted Barley</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -2285,7 +2285,7 @@ Use 2-4% in Brown ales to add a nutty flavor, or 3-10% in Porters and Stouts for
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Barley, Flaked</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -2312,7 +2312,7 @@ Use 2-4% in Brown ales to add a nutty flavor, or 3-10% in Porters and Stouts for
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Oats, Flaked (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -2340,7 +2340,7 @@ Use a small percentage in Belgian Wit Beers.</F_G_NOTES>
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Magnum</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -2365,7 +2365,7 @@ Storage: Excellent/Very good (80%-85% AA after 6 months at 20 C)
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.5900000</F_H_PRICE>
 </Hops>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Milk Sugar (Lactose)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -2392,7 +2392,7 @@ Storage: Excellent/Very good (80%-85% AA after 6 months at 20 C)
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Willamette</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -2415,7 +2415,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Willamette</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -2441,7 +2441,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 </Data>
 <_TExpanded>1</_TExpanded>
 </Ingredients>
-<AgeData><_MOD_>1969-12-31</_MOD_>
+<AgeData><_MOD_>2017-10-29</_MOD_>
 <Name>AgeData</Name>
 <Type>9361</Type>
 <Dirty>0</Dirty>
@@ -2518,7 +2518,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 <Image></Image>
 <F_R_IMAGE_X>0</F_R_IMAGE_X>
 <F_R_IMAGE_Y>0</F_R_IMAGE_Y>
-<F_R_EQUIPMENT><_MOD_>1969-12-31</_MOD_>
+<F_R_EQUIPMENT><_MOD_>2017-10-29</_MOD_>
 <F_E_NAME>Librewtas</F_E_NAME>
 <F_E_MASH_VOL>1920.0000000</F_E_MASH_VOL>
 <F_E_TUN_MASS>192.0000000</F_E_TUN_MASS>
@@ -2587,7 +2587,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 <F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
 <F_MH_BIAB>0</F_MH_BIAB>
 <F_MH_NOTES></F_MH_NOTES>
-<steps><_MOD_>1969-12-31</_MOD_>
+<steps><_MOD_>2017-10-29</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
 <Dirty>1</Dirty>
@@ -2623,7 +2623,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 <F_MH_TUN_MASS>192.0000000</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.3000000</F_MH_TUN_HC>
 </F_R_MASH>
-<F_R_BASE_GRAIN><_MOD_>1969-12-31</_MOD_>
+<F_R_BASE_GRAIN><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -2658,7 +2658,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 <F_C_CARB_RATE>100.0000000</F_C_CARB_RATE>
 <F_C_NOTES>Use corn sugar for priming the beer</F_C_NOTES>
 </F_R_CARB>
-<F_R_AGE><_MOD_>1969-12-31</_MOD_>
+<F_R_AGE><_MOD_>2017-10-29</_MOD_>
 <F_A_NAME>Ale, Two Stage</F_A_NAME>
 <F_A_PRIM_TEMP>67.0000000</F_A_PRIM_TEMP>
 <F_A_PRIM_END_TEMP>67.0000000</F_A_PRIM_END_TEMP>
@@ -2676,7 +2676,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 <F_A_TYPE>1</F_A_TYPE>
 <F_A_NOTES></F_A_NOTES>
 </F_R_AGE>
-<Ingredients><_MOD_>1969-12-31</_MOD_>
+<Ingredients><_MOD_>2017-10-29</_MOD_>
 <Name>Ingredients</Name>
 <Type>7405</Type>
 <Dirty>1</Dirty>
@@ -2726,7 +2726,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>2</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Gypsum (Calcium Sulfate)</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -2762,7 +2762,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>4</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Chalk</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -2780,7 +2780,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>5</F_ORDER>
 </Misc>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Pale Malt, Maris Otter</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER>Maris Otter</F_G_SUPPLIER>
@@ -2807,7 +2807,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Oats, Flaked</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -2837,7 +2837,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Pale Malt, 2-Row (Rahr)</F_G_NAME>
 <F_G_ORIGIN>U.S.</F_G_ORIGIN>
 <F_G_SUPPLIER>Rahr</F_G_SUPPLIER>
@@ -2864,7 +2864,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_G_PRICE>0.1118750</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Munich 10L (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -2894,7 +2894,7 @@ Small amounts added to the grist will improve the malty flavor and give a richer
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>DME Sparklinf Amber (Briess)</F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Centennial</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -2917,7 +2917,7 @@ Examples: Sierra Nevada Celebration Ale, Sierra Nevada Bigfoot</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Amarillo</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -2942,7 +2942,7 @@ Storage: Good
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.1900000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Centennial</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -2965,7 +2965,7 @@ Examples: Sierra Nevada Celebration Ale, Sierra Nevada Bigfoot</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Galaxy</F_H_NAME>
 <F_H_ORIGIN>Australia</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -2986,7 +2986,7 @@ Aroma: Intense, pleasant, unique.</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Mosaic (HBC 369)</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -3011,7 +3011,7 @@ Storage: Good (25% AA after 6 months at 20 C)
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Citra</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -3033,7 +3033,7 @@ Substitutes: Unknown</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>1969-12-31</_MOD_>
+<Yeast><_MOD_>2017-10-29</_MOD_>
 <F_Y_NAME>London Ale III</F_Y_NAME>
 <F_Y_LAB>Wyeast Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>1318</F_Y_PRODUCT_ID>
@@ -3062,7 +3062,7 @@ Substitutes: Unknown</F_H_NOTES>
 <F_Y_NOTES>Light, fruity flavor.  Balanced flavor with hint of sweetness.</F_Y_NOTES>
 <F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
 </Yeast>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Amarillo</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -3087,7 +3087,7 @@ Storage: Good
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.1900000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Citra</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -3130,7 +3130,7 @@ Aroma: Intense, pleasant, unique.</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Mosaic (HBC 369)</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -3155,7 +3155,7 @@ Storage: Good (25% AA after 6 months at 20 C)
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Amarillo</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -3180,7 +3180,7 @@ Storage: Good
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.1900000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Centennial</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -3225,7 +3225,7 @@ Substitutes: Unknown</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Galaxy</F_H_NAME>
 <F_H_ORIGIN>Australia</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -3246,7 +3246,7 @@ Aroma: Intense, pleasant, unique.</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Mosaic (HBC 369)</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -3274,7 +3274,7 @@ Storage: Good (25% AA after 6 months at 20 C)
 </Data>
 <_TExpanded>1</_TExpanded>
 </Ingredients>
-<AgeData><_MOD_>1969-12-31</_MOD_>
+<AgeData><_MOD_>2017-10-29</_MOD_>
 <Name>AgeData</Name>
 <Type>9361</Type>
 <Dirty>0</Dirty>
@@ -3424,7 +3424,7 @@ Appearance: Appearance should be appropriate to the declared base beer and decla
 <F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
 <F_MH_BIAB>0</F_MH_BIAB>
 <F_MH_NOTES>Simple single infusion mash for use with most modern well modified grains (about 95% of the time).</F_MH_NOTES>
-<steps><_MOD_>1969-12-31</_MOD_>
+<steps><_MOD_>2017-10-29</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
 <Dirty>1</Dirty>
@@ -3460,7 +3460,7 @@ Appearance: Appearance should be appropriate to the declared base beer and decla
 <F_MH_TUN_MASS>251.2000000</F_MH_TUN_MASS>
 <F_MH_TUN_HC>1.0000000</F_MH_TUN_HC>
 </F_R_MASH>
-<F_R_BASE_GRAIN><_MOD_>1969-12-31</_MOD_>
+<F_R_BASE_GRAIN><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -3495,7 +3495,7 @@ Appearance: Appearance should be appropriate to the declared base beer and decla
 <F_C_CARB_RATE>100.0000000</F_C_CARB_RATE>
 <F_C_NOTES>Use corn sugar for priming the beer</F_C_NOTES>
 </F_R_CARB>
-<F_R_AGE><_MOD_>1969-12-31</_MOD_>
+<F_R_AGE><_MOD_>2017-10-29</_MOD_>
 <F_A_NAME>Ale, Two Stage</F_A_NAME>
 <F_A_PRIM_TEMP>67.0000000</F_A_PRIM_TEMP>
 <F_A_PRIM_END_TEMP>67.0000000</F_A_PRIM_END_TEMP>
@@ -3513,7 +3513,7 @@ Appearance: Appearance should be appropriate to the declared base beer and decla
 <F_A_TYPE>1</F_A_TYPE>
 <F_A_NOTES></F_A_NOTES>
 </F_R_AGE>
-<Ingredients><_MOD_>1969-12-31</_MOD_>
+<Ingredients><_MOD_>2017-10-29</_MOD_>
 <Name>Ingredients</Name>
 <Type>7405</Type>
 <Dirty>1</Dirty>
@@ -3545,7 +3545,7 @@ Appearance: Appearance should be appropriate to the declared base beer and decla
 <F_W_PRICE>0.0078125</F_W_PRICE>
 <F_ORDER>1</F_ORDER>
 </Water>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Chalk</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -3563,7 +3563,7 @@ Appearance: Appearance should be appropriate to the declared base beer and decla
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>2</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Baking Soda</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -3581,7 +3581,7 @@ Appearance: Appearance should be appropriate to the declared base beer and decla
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>3</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Gypsum (Calcium Sulfate)</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -3599,7 +3599,7 @@ Appearance: Appearance should be appropriate to the declared base beer and decla
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>4</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Pickling Lime</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Add Calcium and Carbonate to water</F_M_USE_FOR>
@@ -3617,7 +3617,7 @@ Appearance: Appearance should be appropriate to the declared base beer and decla
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>5</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Magnesium Chloride</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Add Magnesim and Chloride ions to water</F_M_USE_FOR>
@@ -3635,7 +3635,7 @@ Appearance: Appearance should be appropriate to the declared base beer and decla
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>6</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Calcium Chloride</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -3653,7 +3653,7 @@ Appearance: Appearance should be appropriate to the declared base beer and decla
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>7</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Salt</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -3698,7 +3698,7 @@ Appearance: Appearance should be appropriate to the declared base beer and decla
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Brown Malt</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -3782,7 +3782,7 @@ Small amounts added to the grist will improve the malty flavor and give a richer
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>DME Sparklinf Amber (Briess)</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Victory Malt</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -3810,7 +3810,7 @@ Use for: Nut brown ales, porters</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Caramel/Crystal Malt - 30L</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>De-Bittered Black Malt (Dingemans)</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
 <F_G_SUPPLIER>Dingemans</F_G_SUPPLIER>
@@ -3837,7 +3837,7 @@ Use for: Nut brown ales, porters</F_G_NOTES>
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Pumpkin</F_M_NAME>
 <F_M_TYPE>4</F_M_TYPE>
 <F_M_USE_FOR>Flavor</F_M_USE_FOR>
@@ -3855,7 +3855,7 @@ Use for: Nut brown ales, porters</F_G_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>15</F_ORDER>
 </Misc>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Fuggle, U.S.</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -3878,7 +3878,7 @@ Substitutions: Willamette, UK Fuggle, Styrian Golding</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Pumpkin</F_M_NAME>
 <F_M_TYPE>4</F_M_TYPE>
 <F_M_USE_FOR>Flavor</F_M_USE_FOR>
@@ -3896,7 +3896,7 @@ Substitutions: Willamette, UK Fuggle, Styrian Golding</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>17</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Whirlfloc Tablet</F_M_NAME>
 <F_M_TYPE>1</F_M_TYPE>
 <F_M_USE_FOR>Clarity</F_M_USE_FOR>
@@ -3914,7 +3914,7 @@ Substitutions: Willamette, UK Fuggle, Styrian Golding</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>18</F_ORDER>
 </Misc>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>East Kent Goldings (EKG)</F_H_NAME>
 <F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -3939,7 +3939,7 @@ Storage: Good/Fair 965-80% AA after 6 months at 20 C)
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.9900000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Pumpkin Pie Spice</F_M_NAME>
 <F_M_TYPE>0</F_M_TYPE>
 <F_M_USE_FOR>Flavoring</F_M_USE_FOR>
@@ -3963,7 +3963,7 @@ Storage: Good/Fair 965-80% AA after 6 months at 20 C)
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>20</F_ORDER>
 </Misc>
-<Yeast><_MOD_>1969-12-31</_MOD_>
+<Yeast><_MOD_>2017-10-29</_MOD_>
 <F_Y_NAME>Yorkshire Square Ale Yeast</F_Y_NAME>
 <F_Y_LAB>White Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>WLP037</F_Y_PRODUCT_ID>
@@ -3995,7 +3995,7 @@ Storage: Good/Fair 965-80% AA after 6 months at 20 C)
 </Data>
 <_TExpanded>1</_TExpanded>
 </Ingredients>
-<AgeData><_MOD_>1969-12-31</_MOD_>
+<AgeData><_MOD_>2017-10-29</_MOD_>
 <Name>AgeData</Name>
 <Type>9361</Type>
 <Dirty>0</Dirty>
@@ -4087,7 +4087,7 @@ Pumpkin Pie Spice (makes 5.33333 tbsp):
 <Image></Image>
 <F_R_IMAGE_X>0</F_R_IMAGE_X>
 <F_R_IMAGE_Y>0</F_R_IMAGE_Y>
-<F_R_EQUIPMENT><_MOD_>1969-12-31</_MOD_>
+<F_R_EQUIPMENT><_MOD_>2017-10-29</_MOD_>
 <F_E_NAME>The Librewery</F_E_NAME>
 <F_E_MASH_VOL>1888.0000000</F_E_MASH_VOL>
 <F_E_TUN_MASS>251.2000000</F_E_TUN_MASS>
@@ -4157,7 +4157,7 @@ Appearance: Light brown to dark brown in color, often with ruby highlights when 
 <F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
 <F_MH_BIAB>0</F_MH_BIAB>
 <F_MH_NOTES>Simple single infusion mash for use with most modern well modified grains (about 95% of the time).</F_MH_NOTES>
-<steps><_MOD_>1969-12-31</_MOD_>
+<steps><_MOD_>2017-10-29</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
 <Dirty>1</Dirty>
@@ -4228,7 +4228,7 @@ Appearance: Light brown to dark brown in color, often with ruby highlights when 
 <F_C_CARB_RATE>100.0000000</F_C_CARB_RATE>
 <F_C_NOTES>Use corn sugar for priming the beer</F_C_NOTES>
 </F_R_CARB>
-<F_R_AGE><_MOD_>1969-12-31</_MOD_>
+<F_R_AGE><_MOD_>2017-10-29</_MOD_>
 <F_A_NAME>Ale, Two Stage</F_A_NAME>
 <F_A_PRIM_TEMP>67.0000000</F_A_PRIM_TEMP>
 <F_A_PRIM_END_TEMP>67.0000000</F_A_PRIM_END_TEMP>
@@ -4246,7 +4246,7 @@ Appearance: Light brown to dark brown in color, often with ruby highlights when 
 <F_A_TYPE>1</F_A_TYPE>
 <F_A_NOTES></F_A_NOTES>
 </F_R_AGE>
-<Ingredients><_MOD_>1969-12-31</_MOD_>
+<Ingredients><_MOD_>2017-10-29</_MOD_>
 <Name>Ingredients</Name>
 <Type>7405</Type>
 <Dirty>1</Dirty>
@@ -4278,7 +4278,7 @@ Appearance: Light brown to dark brown in color, often with ruby highlights when 
 <F_W_PRICE>0.0078125</F_W_PRICE>
 <F_ORDER>1</F_ORDER>
 </Water>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Pale Malt, Maris Otter</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER>Maris Otter</F_G_SUPPLIER>
@@ -4305,7 +4305,7 @@ Appearance: Light brown to dark brown in color, often with ruby highlights when 
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Brown Malt</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -4332,7 +4332,7 @@ Appearance: Light brown to dark brown in color, often with ruby highlights when 
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Caramel/Crystal Malt - 60L</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Special B Malt</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -4359,7 +4359,7 @@ Appearance: Light brown to dark brown in color, often with ruby highlights when 
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Barley, Flaked</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -4386,7 +4386,7 @@ Appearance: Light brown to dark brown in color, often with ruby highlights when 
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Caramel/Crystal Malt -120L</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -4414,7 +4414,7 @@ Also called &quot;Crystal&quot; malt.  Very Dark</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Munich 10L (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -4444,7 +4444,7 @@ Small amounts added to the grist will improve the malty flavor and give a richer
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>DME Sparklinf Amber (Briess)</F_G_CONVERT_GRAIN>
 </Grain>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Pumpkin</F_M_NAME>
 <F_M_TYPE>4</F_M_TYPE>
 <F_M_USE_FOR>Flavor</F_M_USE_FOR>
@@ -4462,7 +4462,7 @@ Small amounts added to the grist will improve the malty flavor and give a richer
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>8</F_ORDER>
 </Misc>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Fuggle, U.S.</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -4485,7 +4485,7 @@ Substitutions: Willamette, UK Fuggle, Styrian Golding</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Pumpkin</F_M_NAME>
 <F_M_TYPE>4</F_M_TYPE>
 <F_M_USE_FOR>Flavor</F_M_USE_FOR>
@@ -4503,7 +4503,7 @@ Substitutions: Willamette, UK Fuggle, Styrian Golding</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>10</F_ORDER>
 </Misc>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>East Kent Goldings (EKG)</F_H_NAME>
 <F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -4528,7 +4528,7 @@ Storage: Good/Fair 965-80% AA after 6 months at 20 C)
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.9900000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>East Kent Goldings (EKG)</F_H_NAME>
 <F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -4553,7 +4553,7 @@ Storage: Good/Fair 965-80% AA after 6 months at 20 C)
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.9900000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Pumpkin Pie Spice</F_M_NAME>
 <F_M_TYPE>0</F_M_TYPE>
 <F_M_USE_FOR>Flavoring</F_M_USE_FOR>
@@ -4577,7 +4577,7 @@ Storage: Good/Fair 965-80% AA after 6 months at 20 C)
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>13</F_ORDER>
 </Misc>
-<Yeast><_MOD_>1969-12-31</_MOD_>
+<Yeast><_MOD_>2017-10-29</_MOD_>
 <F_Y_NAME>Yorkshire Square Ale Yeast</F_Y_NAME>
 <F_Y_LAB>White Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>WLP037</F_Y_PRODUCT_ID>
@@ -4609,7 +4609,7 @@ Storage: Good/Fair 965-80% AA after 6 months at 20 C)
 </Data>
 <_TExpanded>1</_TExpanded>
 </Ingredients>
-<AgeData><_MOD_>1969-12-31</_MOD_>
+<AgeData><_MOD_>2017-10-29</_MOD_>
 <Name>AgeData</Name>
 <Type>9361</Type>
 <Dirty>0</Dirty>
@@ -4690,7 +4690,7 @@ Sparge Water Additions:</F_R_NOTES>
 <Image></Image>
 <F_R_IMAGE_X>0</F_R_IMAGE_X>
 <F_R_IMAGE_Y>0</F_R_IMAGE_Y>
-<F_R_EQUIPMENT><_MOD_>1969-12-31</_MOD_>
+<F_R_EQUIPMENT><_MOD_>2017-10-29</_MOD_>
 <F_E_NAME>Librewtas</F_E_NAME>
 <F_E_MASH_VOL>1888.0000000</F_E_MASH_VOL>
 <F_E_TUN_MASS>251.2000000</F_E_TUN_MASS>
@@ -4743,7 +4743,7 @@ Comments: Also known as &ldquo;strong Scotch ale.&rdquo; The term &ldquo;wee hea
 <F_S_EXAMPLES>Belhaven Wee Heavy, Gordon Highland Scotch Ale, Inveralmond Blackfriar, McEwan&#39;s Scotch Ale, Orkney Skull Splitter, Traquair House Ale</F_S_EXAMPLES>
 <F_S_WEB_LINK>http://www.bjcp.org</F_S_WEB_LINK>
 </F_R_STYLE>
-<F_R_MASH><_MOD_>1969-12-31</_MOD_>
+<F_R_MASH><_MOD_>2017-10-29</_MOD_>
 <F_MH_NAME>Wee Heavy</F_MH_NAME>
 <F_MH_GRAIN_WEIGHT>484.0000000</F_MH_GRAIN_WEIGHT>
 <F_MH_GRAIN_TEMP>72.0000000</F_MH_GRAIN_TEMP>
@@ -4760,7 +4760,7 @@ Comments: Also known as &ldquo;strong Scotch ale.&rdquo; The term &ldquo;wee hea
 <F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
 <F_MH_BIAB>0</F_MH_BIAB>
 <F_MH_NOTES></F_MH_NOTES>
-<steps><_MOD_>1969-12-31</_MOD_>
+<steps><_MOD_>2017-10-29</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
 <Dirty>1</Dirty>
@@ -4796,7 +4796,7 @@ Comments: Also known as &ldquo;strong Scotch ale.&rdquo; The term &ldquo;wee hea
 <F_MH_TUN_MASS>251.2000000</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.3000000</F_MH_TUN_HC>
 </F_R_MASH>
-<F_R_BASE_GRAIN><_MOD_>1969-12-31</_MOD_>
+<F_R_BASE_GRAIN><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -4831,7 +4831,7 @@ Comments: Also known as &ldquo;strong Scotch ale.&rdquo; The term &ldquo;wee hea
 <F_C_CARB_RATE>100.0000000</F_C_CARB_RATE>
 <F_C_NOTES>Use corn sugar for priming the beer</F_C_NOTES>
 </F_R_CARB>
-<F_R_AGE><_MOD_>1969-12-31</_MOD_>
+<F_R_AGE><_MOD_>2017-10-29</_MOD_>
 <F_A_NAME>Ale, Two Stage</F_A_NAME>
 <F_A_PRIM_TEMP>67.0000000</F_A_PRIM_TEMP>
 <F_A_PRIM_END_TEMP>67.0000000</F_A_PRIM_END_TEMP>
@@ -4849,7 +4849,7 @@ Comments: Also known as &ldquo;strong Scotch ale.&rdquo; The term &ldquo;wee hea
 <F_A_TYPE>1</F_A_TYPE>
 <F_A_NOTES></F_A_NOTES>
 </F_R_AGE>
-<Ingredients><_MOD_>1969-12-31</_MOD_>
+<Ingredients><_MOD_>2017-10-29</_MOD_>
 <Name>Ingredients</Name>
 <Type>7405</Type>
 <Dirty>1</Dirty>
@@ -4858,7 +4858,7 @@ Comments: Also known as &ldquo;strong Scotch ale.&rdquo; The term &ldquo;wee hea
 <Size>20</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Water><_MOD_>1969-12-31</_MOD_>
+<Data><Water><_MOD_>2017-10-29</_MOD_>
 <F_W_NAME>Distilled Water</F_W_NAME>
 <F_W_AMOUNT>1981.1200000</F_W_AMOUNT>
 <F_W_IN_RECIPE>1</F_W_IN_RECIPE>
@@ -4881,7 +4881,7 @@ Comments: Also known as &ldquo;strong Scotch ale.&rdquo; The term &ldquo;wee hea
 <F_W_PRICE>0.0078125</F_W_PRICE>
 <F_ORDER>1</F_ORDER>
 </Water>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Gypsum (Calcium Sulfate)</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -4899,7 +4899,7 @@ Comments: Also known as &ldquo;strong Scotch ale.&rdquo; The term &ldquo;wee hea
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>2</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Baking Soda</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -4917,7 +4917,7 @@ Comments: Also known as &ldquo;strong Scotch ale.&rdquo; The term &ldquo;wee hea
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>3</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Epsom Salt (MgSO4)</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -4935,7 +4935,7 @@ Comments: Also known as &ldquo;strong Scotch ale.&rdquo; The term &ldquo;wee hea
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>4</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Lactic Acid</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Mash pH</F_M_USE_FOR>
@@ -4953,7 +4953,7 @@ Comments: Also known as &ldquo;strong Scotch ale.&rdquo; The term &ldquo;wee hea
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>5</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Chalk</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -4971,7 +4971,7 @@ Comments: Also known as &ldquo;strong Scotch ale.&rdquo; The term &ldquo;wee hea
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>6</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Magnesium Chloride</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR></F_M_USE_FOR>
@@ -4989,7 +4989,7 @@ Comments: Also known as &ldquo;strong Scotch ale.&rdquo; The term &ldquo;wee hea
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>7</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Calcium Chloride</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -5007,7 +5007,7 @@ Comments: Also known as &ldquo;strong Scotch ale.&rdquo; The term &ldquo;wee hea
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>8</F_ORDER>
 </Misc>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Pale Malt, Maris Otter</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER>Maris Otter</F_G_SUPPLIER>
@@ -5034,7 +5034,7 @@ Comments: Also known as &ldquo;strong Scotch ale.&rdquo; The term &ldquo;wee hea
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Cara-Pils/Dextrine</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -5062,7 +5062,7 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Foam&quot;</F_G_NO
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Smoked Malt (Weyermann)</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER>Weyermann</F_G_SUPPLIER>
@@ -5089,7 +5089,7 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Foam&quot;</F_G_NO
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Aromatic Malt</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -5116,7 +5116,7 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Foam&quot;</F_G_NO
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Caravienne Malt</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Caravienne Malt</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -5143,7 +5143,7 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Foam&quot;</F_G_NO
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Chocolate Malt</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -5172,7 +5172,7 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Crystal Malt - 60L (Thomas Fawcett)</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER>Thomas Fawcett &amp; Sons</F_G_SUPPLIER>
@@ -5199,7 +5199,7 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Target</F_H_NAME>
 <F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -5221,7 +5221,7 @@ Substitutes: East Kent Goldings</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Fuggle</F_H_NAME>
 <F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -5271,7 +5271,7 @@ Storage: Good/Very Good (70-80% AA after 6 months at 20 C)
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0900000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Fuggle</F_H_NAME>
 <F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -5296,7 +5296,7 @@ Storage: Good/Very Good (70-80% AA after 6 months at 20 C)
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0900000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>1969-12-31</_MOD_>
+<Yeast><_MOD_>2017-10-29</_MOD_>
 <F_Y_NAME>Edinburgh Ale</F_Y_NAME>
 <F_Y_LAB>White Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>WLP028</F_Y_PRODUCT_ID>
@@ -5328,7 +5328,7 @@ Storage: Good/Very Good (70-80% AA after 6 months at 20 C)
 </Data>
 <_TExpanded>1</_TExpanded>
 </Ingredients>
-<AgeData><_MOD_>1969-12-31</_MOD_>
+<AgeData><_MOD_>2017-10-29</_MOD_>
 <Name>AgeData</Name>
 <Type>9361</Type>
 <Dirty>0</Dirty>
@@ -5468,7 +5468,7 @@ To Sparge add:
 <F_S_EXAMPLES>Freeminer Trafalgar IPA, Fuller&#39;s Bengal Lancer IPA, Meantime India Pale Ale, Ridgeway IPA, Summit True Brit IPA, Thornbridge Jaipur, Worthington White Shield</F_S_EXAMPLES>
 <F_S_WEB_LINK>http://www.bjcp.org</F_S_WEB_LINK>
 </F_R_STYLE>
-<F_R_MASH><_MOD_>1969-12-31</_MOD_>
+<F_R_MASH><_MOD_>2017-10-29</_MOD_>
 <F_MH_NAME>Single Infusion, Medium Body, Batch Sparge</F_MH_NAME>
 <F_MH_GRAIN_WEIGHT>368.0000000</F_MH_GRAIN_WEIGHT>
 <F_MH_GRAIN_TEMP>65.0000000</F_MH_GRAIN_TEMP>
@@ -5485,7 +5485,7 @@ To Sparge add:
 <F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
 <F_MH_BIAB>0</F_MH_BIAB>
 <F_MH_NOTES>Simple single infusion mash for use with most modern well modified grains (about 95% of the time).</F_MH_NOTES>
-<steps><_MOD_>1969-12-31</_MOD_>
+<steps><_MOD_>2017-10-29</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
 <Dirty>1</Dirty>
@@ -5521,7 +5521,7 @@ To Sparge add:
 <F_MH_TUN_MASS>251.2000000</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.3000000</F_MH_TUN_HC>
 </F_R_MASH>
-<F_R_BASE_GRAIN><_MOD_>1969-12-31</_MOD_>
+<F_R_BASE_GRAIN><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -5556,7 +5556,7 @@ To Sparge add:
 <F_C_CARB_RATE>100.0000000</F_C_CARB_RATE>
 <F_C_NOTES>Keg with forced carbonation which is the method used by most home brewers with kegs</F_C_NOTES>
 </F_R_CARB>
-<F_R_AGE><_MOD_>1969-12-31</_MOD_>
+<F_R_AGE><_MOD_>2017-10-29</_MOD_>
 <F_A_NAME>Ale, Two Stage</F_A_NAME>
 <F_A_PRIM_TEMP>67.0000000</F_A_PRIM_TEMP>
 <F_A_PRIM_END_TEMP>67.0000000</F_A_PRIM_END_TEMP>
@@ -5574,7 +5574,7 @@ To Sparge add:
 <F_A_TYPE>1</F_A_TYPE>
 <F_A_NOTES></F_A_NOTES>
 </F_R_AGE>
-<Ingredients><_MOD_>1969-12-31</_MOD_>
+<Ingredients><_MOD_>2017-10-29</_MOD_>
 <Name>Ingredients</Name>
 <Type>7405</Type>
 <Dirty>1</Dirty>
@@ -5583,7 +5583,7 @@ To Sparge add:
 <Size>19</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Water><_MOD_>1969-12-31</_MOD_>
+<Data><Water><_MOD_>2017-10-29</_MOD_>
 <F_W_NAME>Distilled Water</F_W_NAME>
 <F_W_AMOUNT>1840.6400000</F_W_AMOUNT>
 <F_W_IN_RECIPE>1</F_W_IN_RECIPE>
@@ -5606,7 +5606,7 @@ To Sparge add:
 <F_W_PRICE>0.0078125</F_W_PRICE>
 <F_ORDER>1</F_ORDER>
 </Water>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Gypsum (Calcium Sulfate)</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -5624,7 +5624,7 @@ To Sparge add:
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>2</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Epsom Salt (MgSO4)</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -5642,7 +5642,7 @@ To Sparge add:
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>3</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Chalk</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -5660,7 +5660,7 @@ To Sparge add:
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>4</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Baking Soda</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -5678,7 +5678,7 @@ To Sparge add:
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>5</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Magnesium Chloride</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR></F_M_USE_FOR>
@@ -5696,7 +5696,7 @@ To Sparge add:
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>6</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Calcium Chloride</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -5714,7 +5714,7 @@ To Sparge add:
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>7</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Lactic Acid</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Mash pH</F_M_USE_FOR>
@@ -5732,7 +5732,7 @@ To Sparge add:
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>8</F_ORDER>
 </Misc>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Pale Malt, Maris Otter</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER>Maris Otter</F_G_SUPPLIER>
@@ -5759,7 +5759,7 @@ To Sparge add:
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Caramel Malt - 60L (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -5791,7 +5791,7 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Amber Malt</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -5818,7 +5818,7 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Caramel/Crystal Malt - 20L</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Wheat, Torrified</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -5848,7 +5848,7 @@ Protein rest recommended when mashing</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Wheat Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Goldings, East Kent</F_H_NAME>
 <F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -5871,7 +5871,7 @@ Examples: Bass Pale Ale, Fullers ESB, Samual Smith&#39;s Pale Ale</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Goldings, East Kent</F_H_NAME>
 <F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -5894,7 +5894,7 @@ Examples: Bass Pale Ale, Fullers ESB, Samual Smith&#39;s Pale Ale</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Whirlfloc Tablet</F_M_NAME>
 <F_M_TYPE>1</F_M_TYPE>
 <F_M_USE_FOR>Clarity</F_M_USE_FOR>
@@ -5912,7 +5912,7 @@ Examples: Bass Pale Ale, Fullers ESB, Samual Smith&#39;s Pale Ale</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>15</F_ORDER>
 </Misc>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Fuggles</F_H_NAME>
 <F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -5935,7 +5935,7 @@ Examples: Samuel Smith&#39;s Pale Ale, Old Peculiar, Thomas Hardy&#39;s Ale</F_H
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>1969-12-31</_MOD_>
+<Yeast><_MOD_>2017-10-29</_MOD_>
 <F_Y_NAME>Thames Valley Ale</F_Y_NAME>
 <F_Y_LAB>Wyeast Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>1275</F_Y_PRODUCT_ID>
@@ -5964,7 +5964,7 @@ Examples: Samuel Smith&#39;s Pale Ale, Old Peculiar, Thomas Hardy&#39;s Ale</F_H
 <F_Y_NOTES>Clean, complex flavor.  Low in fruit, low in esters, rich in flavor.  Hops come through well.</F_Y_NOTES>
 <F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
 </Yeast>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Fuggle</F_H_NAME>
 <F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -6015,7 +6015,7 @@ Examples: Bass Pale Ale, Fullers ESB, Samual Smith&#39;s Pale Ale</F_H_NOTES>
 </Data>
 <_TExpanded>1</_TExpanded>
 </Ingredients>
-<AgeData><_MOD_>1969-12-31</_MOD_>
+<AgeData><_MOD_>2017-10-29</_MOD_>
 <Name>AgeData</Name>
 <Type>9361</Type>
 <Dirty>0</Dirty>
@@ -6101,7 +6101,7 @@ Sparge Water Additions:
 <Image></Image>
 <F_R_IMAGE_X>0</F_R_IMAGE_X>
 <F_R_IMAGE_Y>0</F_R_IMAGE_Y>
-<F_R_EQUIPMENT><_MOD_>1969-12-31</_MOD_>
+<F_R_EQUIPMENT><_MOD_>2017-10-29</_MOD_>
 <F_E_NAME>Librewtas</F_E_NAME>
 <F_E_MASH_VOL>1888.0000000</F_E_MASH_VOL>
 <F_E_TUN_MASS>251.2000000</F_E_TUN_MASS>
@@ -6153,7 +6153,7 @@ Sparge Water Additions:
 <F_S_EXAMPLES>Freeminer Trafalgar IPA, Fuller&#39;s Bengal Lancer IPA, Meantime India Pale Ale, Ridgeway IPA, Summit True Brit IPA, Thornbridge Jaipur, Worthington White Shield</F_S_EXAMPLES>
 <F_S_WEB_LINK>http://www.bjcp.org</F_S_WEB_LINK>
 </F_R_STYLE>
-<F_R_MASH><_MOD_>1969-12-31</_MOD_>
+<F_R_MASH><_MOD_>2017-10-29</_MOD_>
 <F_MH_NAME>Single Infusion, Medium Body, Batch Sparge</F_MH_NAME>
 <F_MH_GRAIN_WEIGHT>368.0000000</F_MH_GRAIN_WEIGHT>
 <F_MH_GRAIN_TEMP>65.0000000</F_MH_GRAIN_TEMP>
@@ -6170,7 +6170,7 @@ Sparge Water Additions:
 <F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
 <F_MH_BIAB>0</F_MH_BIAB>
 <F_MH_NOTES>Simple single infusion mash for use with most modern well modified grains (about 95% of the time).</F_MH_NOTES>
-<steps><_MOD_>1969-12-31</_MOD_>
+<steps><_MOD_>2017-10-29</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
 <Dirty>1</Dirty>
@@ -6206,7 +6206,7 @@ Sparge Water Additions:
 <F_MH_TUN_MASS>251.2000000</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.3000000</F_MH_TUN_HC>
 </F_R_MASH>
-<F_R_BASE_GRAIN><_MOD_>1969-12-31</_MOD_>
+<F_R_BASE_GRAIN><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -6241,7 +6241,7 @@ Sparge Water Additions:
 <F_C_CARB_RATE>100.0000000</F_C_CARB_RATE>
 <F_C_NOTES>Keg with forced carbonation which is the method used by most home brewers with kegs</F_C_NOTES>
 </F_R_CARB>
-<F_R_AGE><_MOD_>1969-12-31</_MOD_>
+<F_R_AGE><_MOD_>2017-10-29</_MOD_>
 <F_A_NAME>Ale, Two Stage</F_A_NAME>
 <F_A_PRIM_TEMP>67.0000000</F_A_PRIM_TEMP>
 <F_A_PRIM_END_TEMP>67.0000000</F_A_PRIM_END_TEMP>
@@ -6259,7 +6259,7 @@ Sparge Water Additions:
 <F_A_TYPE>1</F_A_TYPE>
 <F_A_NOTES></F_A_NOTES>
 </F_R_AGE>
-<Ingredients><_MOD_>1969-12-31</_MOD_>
+<Ingredients><_MOD_>2017-10-29</_MOD_>
 <Name>Ingredients</Name>
 <Type>7405</Type>
 <Dirty>1</Dirty>
@@ -6268,7 +6268,7 @@ Sparge Water Additions:
 <Size>19</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Water><_MOD_>1969-12-31</_MOD_>
+<Data><Water><_MOD_>2017-10-29</_MOD_>
 <F_W_NAME>Distilled Water</F_W_NAME>
 <F_W_AMOUNT>1840.6400000</F_W_AMOUNT>
 <F_W_IN_RECIPE>1</F_W_IN_RECIPE>
@@ -6291,7 +6291,7 @@ Sparge Water Additions:
 <F_W_PRICE>0.0078125</F_W_PRICE>
 <F_ORDER>1</F_ORDER>
 </Water>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Gypsum (Calcium Sulfate)</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -6309,7 +6309,7 @@ Sparge Water Additions:
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>2</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Epsom Salt (MgSO4)</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -6327,7 +6327,7 @@ Sparge Water Additions:
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>3</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Chalk</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -6345,7 +6345,7 @@ Sparge Water Additions:
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>4</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Baking Soda</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -6363,7 +6363,7 @@ Sparge Water Additions:
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>5</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Magnesium Chloride</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR></F_M_USE_FOR>
@@ -6381,7 +6381,7 @@ Sparge Water Additions:
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>6</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Calcium Chloride</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -6399,7 +6399,7 @@ Sparge Water Additions:
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>7</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Lactic Acid</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Mash pH</F_M_USE_FOR>
@@ -6444,7 +6444,7 @@ Sparge Water Additions:
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Caramel Malt - 60L (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -6476,7 +6476,7 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Amber Malt</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -6503,7 +6503,7 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Caramel/Crystal Malt - 20L</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Wheat, Torrified</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -6533,7 +6533,7 @@ Protein rest recommended when mashing</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Wheat Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Goldings, East Kent</F_H_NAME>
 <F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -6556,7 +6556,7 @@ Examples: Bass Pale Ale, Fullers ESB, Samual Smith&#39;s Pale Ale</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Goldings, East Kent</F_H_NAME>
 <F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -6579,7 +6579,7 @@ Examples: Bass Pale Ale, Fullers ESB, Samual Smith&#39;s Pale Ale</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Whirlfloc Tablet</F_M_NAME>
 <F_M_TYPE>1</F_M_TYPE>
 <F_M_USE_FOR>Clarity</F_M_USE_FOR>
@@ -6597,7 +6597,7 @@ Examples: Bass Pale Ale, Fullers ESB, Samual Smith&#39;s Pale Ale</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>15</F_ORDER>
 </Misc>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Fuggles</F_H_NAME>
 <F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -6620,7 +6620,7 @@ Examples: Samuel Smith&#39;s Pale Ale, Old Peculiar, Thomas Hardy&#39;s Ale</F_H
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>1969-12-31</_MOD_>
+<Yeast><_MOD_>2017-10-29</_MOD_>
 <F_Y_NAME>Thames Valley Ale</F_Y_NAME>
 <F_Y_LAB>Wyeast Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>1275</F_Y_PRODUCT_ID>
@@ -6649,7 +6649,7 @@ Examples: Samuel Smith&#39;s Pale Ale, Old Peculiar, Thomas Hardy&#39;s Ale</F_H
 <F_Y_NOTES>Clean, complex flavor.  Low in fruit, low in esters, rich in flavor.  Hops come through well.</F_Y_NOTES>
 <F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
 </Yeast>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Fuggle</F_H_NAME>
 <F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -6700,7 +6700,7 @@ Examples: Bass Pale Ale, Fullers ESB, Samual Smith&#39;s Pale Ale</F_H_NOTES>
 </Data>
 <_TExpanded>1</_TExpanded>
 </Ingredients>
-<AgeData><_MOD_>1969-12-31</_MOD_>
+<AgeData><_MOD_>2017-10-29</_MOD_>
 <Name>AgeData</Name>
 <Type>9361</Type>
 <Dirty>0</Dirty>
@@ -6786,7 +6786,7 @@ Sparge Water Additions:
 <Image></Image>
 <F_R_IMAGE_X>0</F_R_IMAGE_X>
 <F_R_IMAGE_Y>0</F_R_IMAGE_Y>
-<F_R_EQUIPMENT><_MOD_>1969-12-31</_MOD_>
+<F_R_EQUIPMENT><_MOD_>2017-10-29</_MOD_>
 <F_E_NAME>Librewtas</F_E_NAME>
 <F_E_MASH_VOL>1888.0000000</F_E_MASH_VOL>
 <F_E_TUN_MASS>251.2000000</F_E_TUN_MASS>
@@ -6858,7 +6858,7 @@ Mouthfeel: High carbonation but no carbonic acid &ldquo;bite.&rdquo; Smooth but 
 <F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
 <F_MH_BIAB>0</F_MH_BIAB>
 <F_MH_NOTES>Simple single infusion mash for use with most modern well modified grains (about 95% of the time).</F_MH_NOTES>
-<steps><_MOD_>1969-12-31</_MOD_>
+<steps><_MOD_>2017-10-29</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
 <Dirty>1</Dirty>
@@ -6894,7 +6894,7 @@ Mouthfeel: High carbonation but no carbonic acid &ldquo;bite.&rdquo; Smooth but 
 <F_MH_TUN_MASS>251.2000000</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.3000000</F_MH_TUN_HC>
 </F_R_MASH>
-<F_R_BASE_GRAIN><_MOD_>1969-12-31</_MOD_>
+<F_R_BASE_GRAIN><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -6929,7 +6929,7 @@ Mouthfeel: High carbonation but no carbonic acid &ldquo;bite.&rdquo; Smooth but 
 <F_C_CARB_RATE>100.0000000</F_C_CARB_RATE>
 <F_C_NOTES>Keg with forced carbonation which is the method used by most home brewers with kegs</F_C_NOTES>
 </F_R_CARB>
-<F_R_AGE><_MOD_>1969-12-31</_MOD_>
+<F_R_AGE><_MOD_>2017-10-29</_MOD_>
 <F_A_NAME>Ale, Two Stage</F_A_NAME>
 <F_A_PRIM_TEMP>67.0000000</F_A_PRIM_TEMP>
 <F_A_PRIM_END_TEMP>67.0000000</F_A_PRIM_END_TEMP>
@@ -6947,7 +6947,7 @@ Mouthfeel: High carbonation but no carbonic acid &ldquo;bite.&rdquo; Smooth but 
 <F_A_TYPE>1</F_A_TYPE>
 <F_A_NOTES></F_A_NOTES>
 </F_R_AGE>
-<Ingredients><_MOD_>1969-12-31</_MOD_>
+<Ingredients><_MOD_>2017-10-29</_MOD_>
 <Name>Ingredients</Name>
 <Type>7405</Type>
 <Dirty>1</Dirty>
@@ -6956,7 +6956,7 @@ Mouthfeel: High carbonation but no carbonic acid &ldquo;bite.&rdquo; Smooth but 
 <Size>12</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Misc><_MOD_>1969-12-31</_MOD_>
+<Data><Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Chalk</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -6974,7 +6974,7 @@ Mouthfeel: High carbonation but no carbonic acid &ldquo;bite.&rdquo; Smooth but 
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>1</F_ORDER>
 </Misc>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Pilsner (2 Row) Bel</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -7001,7 +7001,7 @@ Mouthfeel: High carbonation but no carbonic acid &ldquo;bite.&rdquo; Smooth but 
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pilsner Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Pale Malt (2 Row) Bel</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -7029,7 +7029,7 @@ Higher potential yield than US, English equivalent pale ale malts</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Northern Brewer</F_H_NAME>
 <F_H_ORIGIN>Germany</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -7053,7 +7053,7 @@ Examples: Anchor Steam, Old Peculiar, </F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2017-10-29</_MOD_>
 <F_G_NAME>Candi Syrup, D-180</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Candi Syrup</F_G_SUPPLIER>
@@ -7080,7 +7080,7 @@ Examples: Anchor Steam, Old Peculiar, </F_H_NOTES>
 <F_G_PRICE>0.3750000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Hallertauer Mittelfrueh</F_H_NAME>
 <F_H_ORIGIN>Germany</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -7103,7 +7103,7 @@ Examples: Sam Adams Boston Lager, Sam Adams Boston Lightship</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Whirlfloc Tablet</F_M_NAME>
 <F_M_TYPE>1</F_M_TYPE>
 <F_M_USE_FOR>Clarity</F_M_USE_FOR>
@@ -7121,7 +7121,7 @@ Examples: Sam Adams Boston Lager, Sam Adams Boston Lightship</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>7</F_ORDER>
 </Misc>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Hersbrucker </F_H_NAME>
 <F_H_ORIGIN>Germany</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -7146,7 +7146,7 @@ Storage: Fair (55%-65% AA after 6 months at 20 C)
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.7900000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2017-10-29</_MOD_>
 <F_H_NAME>Styrian Goldings</F_H_NAME>
 <F_H_ORIGIN>Slovenia</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -7169,7 +7169,7 @@ Substitutes: Fuggles, Williamette</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Olive Oil</F_M_NAME>
 <F_M_TYPE>4</F_M_TYPE>
 <F_M_USE_FOR>Yeast Nutrient</F_M_USE_FOR>
@@ -7187,7 +7187,7 @@ Substitutes: Fuggles, Williamette</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>10</F_ORDER>
 </Misc>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2017-10-29</_MOD_>
 <F_M_NAME>Servomyces</F_M_NAME>
 <F_M_TYPE>4</F_M_TYPE>
 <F_M_USE_FOR>Yeast Nutrient</F_M_USE_FOR>
@@ -7205,7 +7205,7 @@ Substitutes: Fuggles, Williamette</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>11</F_ORDER>
 </Misc>
-<Yeast><_MOD_>1969-12-31</_MOD_>
+<Yeast><_MOD_>2017-10-29</_MOD_>
 <F_Y_NAME>Abbey Ale</F_Y_NAME>
 <F_Y_LAB>White Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>WLP530</F_Y_PRODUCT_ID>
@@ -7237,7 +7237,7 @@ Substitutes: Fuggles, Williamette</F_H_NOTES>
 </Data>
 <_TExpanded>1</_TExpanded>
 </Ingredients>
-<AgeData><_MOD_>1969-12-31</_MOD_>
+<AgeData><_MOD_>2017-10-29</_MOD_>
 <Name>AgeData</Name>
 <Type>9361</Type>
 <Dirty>0</Dirty>

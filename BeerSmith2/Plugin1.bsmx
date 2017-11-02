@@ -4,73 +4,78 @@
 <Dirty>0</Dirty>
 <Owndata>1</Owndata>
 <TID>8344</TID>
-<Size>13</Size>
+<Size>14</Size>
 <_XName>Plugin</_XName>
 <Allocinc>16</Allocinc>
-<Data><Plugin><_MOD_>1970-03-18</_MOD_>
+<Data><Plugin><_MOD_>2017-10-28</_MOD_>
 <F_PLUG_NAME>BJCP 2015 Cider Styles </F_PLUG_NAME>
 <F_PLUG_TYPE>7428</F_PLUG_TYPE>
 <F_PLUG_FILE>BJCP_2015_Cider.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2017-10-24</_MOD_>
+<Plugin><_MOD_>2017-10-29</_MOD_>
 <F_PLUG_NAME>BJCP 2015 Mead Styles </F_PLUG_NAME>
 <F_PLUG_TYPE>7428</F_PLUG_TYPE>
 <F_PLUG_FILE>BJCP_2015_Mead.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2017-09-05</_MOD_>
+<Plugin><_MOD_>2017-10-28</_MOD_>
 <F_PLUG_NAME>BJCP 2015 Style Guide - Change Options-&gt;Brewing-&gt;Style Guide to view </F_PLUG_NAME>
 <F_PLUG_TYPE>7428</F_PLUG_TYPE>
 <F_PLUG_FILE>BJCP2015.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2017-09-05</_MOD_>
+<Plugin><_MOD_>2017-10-29</_MOD_>
 <F_PLUG_NAME>Fruits (29 items)</F_PLUG_NAME>
 <F_PLUG_TYPE>7406</F_PLUG_TYPE>
 <F_PLUG_FILE>Fruits.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>1973-11-13</_MOD_>
+<Plugin><_MOD_>2017-10-28</_MOD_>
 <F_PLUG_NAME>Hop Update 2016 (32 hops)</F_PLUG_NAME>
 <F_PLUG_TYPE>7403</F_PLUG_TYPE>
 <F_PLUG_FILE>Hops2016Update.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2017-10-24</_MOD_>
+<Plugin><_MOD_>2017-10-28</_MOD_>
 <F_PLUG_NAME>Hop Update Jun 2016 (6 hops)</F_PLUG_NAME>
 <F_PLUG_TYPE>7403</F_PLUG_TYPE>
 <F_PLUG_FILE>HopsMay2016.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2017-10-24</_MOD_>
+<Plugin><_MOD_>2017-10-28</_MOD_>
 <F_PLUG_NAME>Misc Update 2016 (48 items)</F_PLUG_NAME>
 <F_PLUG_TYPE>7421</F_PLUG_TYPE>
 <F_PLUG_FILE>Misc2016Update.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2017-09-05</_MOD_>
+<Plugin><_MOD_>2017-10-28</_MOD_>
 <F_PLUG_NAME>Rahr Malts (7 grains)</F_PLUG_NAME>
 <F_PLUG_TYPE>7406</F_PLUG_TYPE>
 <F_PLUG_FILE>RahrMalts.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2017-10-24</_MOD_>
+<Plugin><_MOD_>2017-10-28</_MOD_>
 <F_PLUG_NAME>Thomas Fawcett Malts (14 grains)</F_PLUG_NAME>
 <F_PLUG_TYPE>7406</F_PLUG_TYPE>
 <F_PLUG_FILE>Thomas_Fawcett.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2017-09-05</_MOD_>
+<Plugin><_MOD_>2017-10-28</_MOD_>
 <F_PLUG_NAME>Water Profiles by Style (30 waters)</F_PLUG_NAME>
 <F_PLUG_TYPE>7423</F_PLUG_TYPE>
 <F_PLUG_FILE>WaterByStyle.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2017-09-05</_MOD_>
+<Plugin><_MOD_>2017-10-28</_MOD_>
 <F_PLUG_NAME>Yeast Update 2016 (178 yeasts)</F_PLUG_NAME>
 <F_PLUG_TYPE>7426</F_PLUG_TYPE>
 <F_PLUG_FILE>Yeast2016Update.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2017-09-05</_MOD_>
+<Plugin><_MOD_>2017-10-28</_MOD_>
 <F_PLUG_NAME>Weyermann Malts (30 grains)</F_PLUG_NAME>
 <F_PLUG_TYPE>7406</F_PLUG_TYPE>
 <F_PLUG_FILE>Weyermann.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2017-10-24</_MOD_>
+<Plugin><_MOD_>2017-10-28</_MOD_>
 <F_PLUG_NAME>Viking Malts - Finland (19 grains)</F_PLUG_NAME>
 <F_PLUG_TYPE>7406</F_PLUG_TYPE>
 <F_PLUG_FILE>Viking.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>2017-10-28</_MOD_>
+<F_PLUG_NAME>Candy Syrups (8 syrups)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>CandiSyrupProducts.bsmx</F_PLUG_FILE>
 </Plugin>
 </Data>
 <_TExpanded>1</_TExpanded>
