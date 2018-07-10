@@ -1,0 +1,344 @@
+<Selections><_MOD_>2016-10-15</_MOD_>
+<Name>Selections</Name>
+<Type>7428</Type>
+<Dirty>1</Dirty>
+<Owndata>0</Owndata>
+<TID>1</TID>
+<Size>13</Size>
+<_XName>Selections</_XName>
+<Allocinc>16</Allocinc>
+<Data><Style><_MOD_>2016-10-15</_MOD_>
+<F_S_NAME>Dry Mead</F_S_NAME>
+<F_S_CATEGORY>Traditional Mead</F_S_CATEGORY>
+<F_S_GUIDE>BJCP 2015</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>M1</F_S_NUMBER>
+<F_S_TYPE>3</F_S_TYPE>
+<F_S_MIN_OG>1.0350000</F_S_MIN_OG>
+<F_S_MAX_OG>1.1700000</F_S_MAX_OG>
+<F_S_MIN_FG>0.9900000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0100000</F_S_MAX_FG>
+<F_S_MIN_IBU>0.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>0.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>0.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>2.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>50.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>18.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol.  Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste.  The proper balance of sweetness, acidity, alcohol, and honey character is the essential final measure of any mead.</F_S_DESCRIPTION>
+<F_S_PROFILE>OG, SRM and ABV will vary.</F_S_PROFILE>
+<F_S_INGREDIENTS>Standard description applies. Traditional Meads feature the character of a blended honey or a blend of honeys.  Varietal meads feature the distinctive character of certain honeys. Show meads feature no additives, but this distinction is usually not obvious to judges.</F_S_INGREDIENTS>
+<F_S_EXAMPLES>White Winter Dry Mead, Sky River Dry Mead, Intermiel Bouquet Printanier</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://www.bjcp.org</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2016-10-15</_MOD_>
+<F_S_NAME>Semi-Sweet Mead</F_S_NAME>
+<F_S_CATEGORY>Traditional Mead</F_S_CATEGORY>
+<F_S_GUIDE>BJCP 2015</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>M1</F_S_NUMBER>
+<F_S_TYPE>3</F_S_TYPE>
+<F_S_MIN_OG>1.0350000</F_S_MIN_OG>
+<F_S_MAX_OG>1.1700000</F_S_MAX_OG>
+<F_S_MIN_FG>0.9900000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0100000</F_S_MAX_FG>
+<F_S_MIN_IBU>0.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>0.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>0.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>2.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>50.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>18.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol.  Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste.  The proper balance of sweetness, acidity, alcohol, and honey character is the essential final measure of any mead.</F_S_DESCRIPTION>
+<F_S_PROFILE>OG, SRM and ABV will vary.</F_S_PROFILE>
+<F_S_INGREDIENTS>Standard description applies. Traditional Meads feature the character of a blended honey or a blend of honeys.  Varietal meads feature the distinctive character of certain honeys. Show meads feature no additives, but this distinction is usually not obvious to judges.</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Lurgashall English Mead, Redstone Traditional Mountain Honey Wine, Sky River Semi-Sweet Mead, Intermiel Verge d&rsquo;Or and M&eacute;lilot</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://www.bjcp.org</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2016-10-15</_MOD_>
+<F_S_NAME>Sweet Mead</F_S_NAME>
+<F_S_CATEGORY>Traditional Mead</F_S_CATEGORY>
+<F_S_GUIDE>BJCP 2015</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>M1</F_S_NUMBER>
+<F_S_TYPE>3</F_S_TYPE>
+<F_S_MIN_OG>1.0350000</F_S_MIN_OG>
+<F_S_MAX_OG>1.1700000</F_S_MAX_OG>
+<F_S_MIN_FG>0.9900000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0100000</F_S_MAX_FG>
+<F_S_MIN_IBU>0.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>0.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>0.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>2.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>50.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>18.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol.  Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste.  The proper balance of sweetness, acidity, alcohol, and honey character is the essential final measure of any mead.</F_S_DESCRIPTION>
+<F_S_PROFILE>OG, SRM and ABV will vary.</F_S_PROFILE>
+<F_S_INGREDIENTS>Standard description applies. Traditional Meads feature the character of a blended honey or a blend of honeys.  Varietal meads feature the distinctive character of certain honeys. Show meads feature no additives, but this distinction is usually not obvious to judges.</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Moonlight Sensual, Lurgashall Christmas Mead, Chaucer&rsquo;s Mead, Rabbit&rsquo;s Foot Sweet Wildflower Honey Mead, Intermiel Beno&icirc;te</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://www.bjcp.org</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2016-10-15</_MOD_>
+<F_S_NAME>Cyser</F_S_NAME>
+<F_S_CATEGORY>Fruit Mead</F_S_CATEGORY>
+<F_S_GUIDE>BJCP 2015</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>M2</F_S_NUMBER>
+<F_S_TYPE>3</F_S_TYPE>
+<F_S_MIN_OG>1.0350000</F_S_MIN_OG>
+<F_S_MAX_OG>1.1700000</F_S_MAX_OG>
+<F_S_MIN_FG>0.9900000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0100000</F_S_MAX_FG>
+<F_S_MIN_IBU>0.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>0.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>0.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>2.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>50.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>18.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>A cyser is a melomel made with apples, generally cider.  In well-made examples of the style, the fruit is both distinctive and well-incorporated into the honeysweet-acid-tannin-alcohol balance of the mead. Some of the best strong examples have the taste and aroma of an aged Calvados (apple brandy from northern France), while subtle, dry versions can taste similar to many fine white wines. There should be an appealing blend of the fruit and honey character but not necessarily an even balance. Generally a good tannin-sweetness balance is desired, though very dry and very sweet examples do exist.</F_S_DESCRIPTION>
+<F_S_PROFILE>OG, SRM and ABV will vary.</F_S_PROFILE>
+<F_S_INGREDIENTS>Standard description applies. Cyser is a mead made with the addition of apples or apple juice. Traditionally, cysers are made by the addition of honey to apple juice without additional water.</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Moonlight Blossom, White Winter Cyser, Rabbit&rsquo;s Foot Apple Cyser
+</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://www.bjcp.org</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2016-10-15</_MOD_>
+<F_S_NAME>Pyment</F_S_NAME>
+<F_S_CATEGORY>Fruit Mead</F_S_CATEGORY>
+<F_S_GUIDE>BJCP 2015</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>M2</F_S_NUMBER>
+<F_S_TYPE>3</F_S_TYPE>
+<F_S_MIN_OG>1.0350000</F_S_MIN_OG>
+<F_S_MAX_OG>1.1700000</F_S_MAX_OG>
+<F_S_MIN_FG>0.9900000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0100000</F_S_MAX_FG>
+<F_S_MIN_IBU>0.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>0.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>0.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>2.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>50.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>18.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>A pyment is a melomel made with grapes, generally from juice.  Just as with wines, pyments can be red, white, or blush.  In well-made examples of the style, the grape is both distinctively vinous and well-incorporated into the honey-sweet-acid-tannin-alcohol balance of the mead. White and red versions can be quite different, and the overall impression should be characteristic of the type of grapes used and suggestive of a similar variety wine. There should be an appealing blend of the fruit and honey character but not necessarily an even balance. Generally a good tannin-sweetness balance is desired, though very dry and very sweet examples do exist.</F_S_DESCRIPTION>
+<F_S_PROFILE>OG, SRM and ABV will vary.</F_S_PROFILE>
+<F_S_INGREDIENTS>Standard description applies. Cyser is a mead made with the addition of apples or apple juice. Traditionally, cysers are made by the addition of honey to apple juice without additional water.</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Celestial Meads Que Syrah, Moonlight Slow Dance, Redstone Pinot Noir and White Pyment Mountain Honey Wines
+</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://www.bjcp.org</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2016-10-15</_MOD_>
+<F_S_NAME>Berry Mead</F_S_NAME>
+<F_S_CATEGORY>Fruit Mead</F_S_CATEGORY>
+<F_S_GUIDE>BJCP 2015</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>M2</F_S_NUMBER>
+<F_S_TYPE>3</F_S_TYPE>
+<F_S_MIN_OG>1.0350000</F_S_MIN_OG>
+<F_S_MAX_OG>1.1700000</F_S_MAX_OG>
+<F_S_MIN_FG>0.9900000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0100000</F_S_MAX_FG>
+<F_S_MIN_IBU>0.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>0.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>0.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>2.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>50.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>18.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Berries can have seeds, but do not have stones/pits; some are aggregates of druplets.  Combinations of berries can be entered here. The culinary, not botanical, definition of berry is used here. If you have to justify a fruit using the word &ldquo;technically&rdquo; as part of the description, then that&rsquo;s not what we mean.  In well-made examples of the style, the fruit is both distinctive and well-incorporated into the honeysweet-acid-tannin-alcohol balance of the mead. Different types of fruit can result in widely different characteristics; allow for a variation in the final product.</F_S_DESCRIPTION>
+<F_S_PROFILE>OG, SRM and ABV will vary.</F_S_PROFILE>
+<F_S_INGREDIENTS>Standard description applies. A berry mead is a mead made with the addition of other berries or berry juices, including a blend of berries. There should be an appealing blend of the fruit and honey character but not necessarily an even balance.</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Moonlight Blissful, Wild, Caress, and Mischief, White Winter Blueberry, Raspberry and Strawberry Melomels, Celestial Meads Miel Noir, Redstone Black Raspberry Nectar, Bees Brothers Raspberry Mead, Intermiel Honey Wine and Raspberries, Honey Wine and Blueberries, and Honey Wine and Blackcurrants, Mountain Meadows Cranberry Mead
+</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://www.bjcp.org</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2016-10-15</_MOD_>
+<F_S_NAME>Stone Fruit Mead</F_S_NAME>
+<F_S_CATEGORY>Fruit Mead</F_S_CATEGORY>
+<F_S_GUIDE>BJCP 2015</F_S_GUIDE>
+<F_S_LETTER>4</F_S_LETTER>
+<F_S_NUMBER>M2</F_S_NUMBER>
+<F_S_TYPE>3</F_S_TYPE>
+<F_S_MIN_OG>1.0350000</F_S_MIN_OG>
+<F_S_MAX_OG>1.1700000</F_S_MAX_OG>
+<F_S_MIN_FG>0.9900000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0100000</F_S_MAX_FG>
+<F_S_MIN_IBU>0.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>0.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>0.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>2.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>50.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>18.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>A Stone Fruit Mead is an entry category for melomels made with stone fruit, such as cherries, plums, peaches, apricots, and mangoes. Stone fruit are fleshy fruit with a single large pit or stone. The culinary, not botanical, definition of stone fruit is used here. If you have to justify a fruit using the word &ldquo;technically&rdquo; as part of the description, then that&rsquo;s not what we mean. Combinations of stone fruit can be entered here.  In well-made examples of the style, the fruit is both distinctive and well-incorporated into the honeysweet-acid-tannin-alcohol balance of the mead. Different types of fruit can result in widely different characteristics; allow for a variation in the final product.</F_S_DESCRIPTION>
+<F_S_PROFILE>OG, SRM and ABV will vary.</F_S_PROFILE>
+<F_S_INGREDIENTS>Standard description applies. A stone fruit mead is a mead made with the addition of other stone fruit or stone fruit juices. There should be an appealing blend of the fruit and honey character but not necessarily an even balance. A stone fruit mead can be made with a blend of stone fruits, but not other fruit not allowable in this category.</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Mountain Meadows Cherry Mead, Moonlight Entice, Sumptuous, Flirt, and Smitten, Redstone Sunshine Nectar
+</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://www.bjcp.org</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2016-10-15</_MOD_>
+<F_S_NAME>Melomel</F_S_NAME>
+<F_S_CATEGORY>Fruit Mead</F_S_CATEGORY>
+<F_S_GUIDE>BJCP 2015</F_S_GUIDE>
+<F_S_LETTER>5</F_S_LETTER>
+<F_S_NUMBER>M2</F_S_NUMBER>
+<F_S_TYPE>3</F_S_TYPE>
+<F_S_MIN_OG>1.0350000</F_S_MIN_OG>
+<F_S_MAX_OG>1.1700000</F_S_MAX_OG>
+<F_S_MIN_FG>0.9900000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0100000</F_S_MAX_FG>
+<F_S_MIN_IBU>0.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>0.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>0.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>2.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>50.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>18.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>The melomel subcategory is for fruit meads made with any fruit not associated with any other fruit mead subcategory, or with a combination of fruits from multiple fruit mead subcategories (such as grapes and stone fruit). If in doubt, enter the fruit here &ndash; judges should be flexible with fruit not explicitly named in other categories. The culinary, not botanical, definition of fruit is used here. If you have to justify a fruit using the word &ldquo;technically&rdquo; as part of the description, then that&rsquo;s not what we mean.  In well-made examples of the style, the fruit is both distinctive and well-incorporated into the honeysweet-acid-tannin-alcohol balance of the mead. Different types of fruit can result in widely different characteristics; allow for a variation in the final product.</F_S_DESCRIPTION>
+<F_S_PROFILE>OG, SRM and ABV will vary.</F_S_PROFILE>
+<F_S_INGREDIENTS>Standard description applies. A melomel is a mead made with the addition of other fruit or fruit juices not specifically reserved for other entry subcategories. There should be an appealing blend of the fruit and honey character but not necessarily an even balance. A melomel can be made with a blend of fruits from multiple Fruit Mead subcategories.</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Moonlight Desire, Paramour, and Iniquity
+</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://www.bjcp.org</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2016-10-15</_MOD_>
+<F_S_NAME>Fruit and Spice Mead</F_S_NAME>
+<F_S_CATEGORY>Spiced Mead</F_S_CATEGORY>
+<F_S_GUIDE>BJCP 2015</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>M3</F_S_NUMBER>
+<F_S_TYPE>3</F_S_TYPE>
+<F_S_MIN_OG>1.0350000</F_S_MIN_OG>
+<F_S_MAX_OG>1.1700000</F_S_MAX_OG>
+<F_S_MIN_FG>0.9900000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0100000</F_S_MAX_FG>
+<F_S_MIN_IBU>0.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>0.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>0.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>2.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>50.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>18.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>A Fruit and Spice Mead is a mead containing one or more fruits and one or more spices. See the definitions of fruit used in the various Fruit Mead subcategories; any ingredient qualifying there meets the &ldquo;fruit&rdquo; requirement here. For purposes of this subcategory, any ingredient qualifying for use in the Spice, Herb, or Vegetable Mead subcategory also meets the &ldquo;spice&rdquo; requirement here.  In well-made examples of the style, the fruits and spices are both distinctive and well-incorporated into the honey-sweet-acid-tannin-alcohol balance of the mead. Different types of fruits and spices can result in widely different characteristics; allow for significant variation in the final product.</F_S_DESCRIPTION>
+<F_S_PROFILE>OG, SRM and ABV will vary.</F_S_PROFILE>
+<F_S_INGREDIENTS>Standard description applies. See the various Fruit Mead descriptions, as well as the Spice, Herb, or Vegetable Mead description for additional details.</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Moonlight Kurt&rsquo;s Apple Pie, Mojo, Flame, Fling, and Deviant, Celestial Meads Scheherazade, Rabbit&rsquo;s Foot Private Reserve Pear Mead, Intermiel Ros&eacute;e</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://www.bjcp.org</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2016-10-15</_MOD_>
+<F_S_NAME>Spice, Herb Or Vegetable Mead</F_S_NAME>
+<F_S_CATEGORY>Spiced Mead</F_S_CATEGORY>
+<F_S_GUIDE>BJCP 2015</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>M3</F_S_NUMBER>
+<F_S_TYPE>3</F_S_TYPE>
+<F_S_MIN_OG>1.0350000</F_S_MIN_OG>
+<F_S_MAX_OG>1.1700000</F_S_MAX_OG>
+<F_S_MIN_FG>0.9900000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0100000</F_S_MAX_FG>
+<F_S_MIN_IBU>0.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>0.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>0.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>2.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>50.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>18.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>A Spice, Herb, or Vegetable Mead contains one or more spices, herbs, or vegetables (in this style definition, these are collectively known as &ldquo;spices&rdquo;). The culinary, not botanical, definition of spice, herb, or vegetable is used here. If you have to justify a spice, herb, or vegetable using the word &ldquo;technically&rdquo; as part of the description, then that&rsquo;s not what we mean. The same definitions apply to this category as to the similarly named beer category. In addition to the more obvious spices, herbs, and vegetables that fit into this subcategory, the following ingredients also are explicitly included: roses, rose hips, ginger, rhubarb, pumpkins, chile peppers, coffee, chocolate, nuts (including coconut), citrus peels/zest, and teas (except those strictly used for increasing tannin levels, not for adding flavor).
+
+In well-made examples of the style, the spices are both distinctive and well-incorporated into the honeysweet-acid-tannin-alcohol balance of the mead. Different types of spices can result in widely different characteristics; allow for a variation in the final product.</F_S_DESCRIPTION>
+<F_S_PROFILE>OG, SRM and ABV will vary.</F_S_PROFILE>
+<F_S_INGREDIENTS>Standard description applies. If spices are used in conjunction with other ingredients such as fruit, cider, or other fruit-based fermentables, then the mead should be entered as a Fruit and Spice Mead. If spices are used in combination with other ingredients, then the mead should be entered as an Experimental Mead.</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Moonlight Wicked, Breathless, Madagascar, and Seduction, Redstone Vanilla Beans and Cinnamon Sticks Mountain Honey Wine, Bonair Chili Mead, Redstone Juniper Mountain Honey Wine, iQhilika Africa Birds Eye Chili Mead, Mountain Meadows Spice Nectar</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://www.bjcp.org</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2016-10-15</_MOD_>
+<F_S_NAME>Braggot</F_S_NAME>
+<F_S_CATEGORY>Specialty Mead</F_S_CATEGORY>
+<F_S_GUIDE>BJCP 2015</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>M4</F_S_NUMBER>
+<F_S_TYPE>3</F_S_TYPE>
+<F_S_MIN_OG>1.0350000</F_S_MIN_OG>
+<F_S_MAX_OG>1.1700000</F_S_MAX_OG>
+<F_S_MIN_FG>0.9900000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0100000</F_S_MAX_FG>
+<F_S_MIN_IBU>0.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>0.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>0.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>2.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>50.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>18.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>A Braggot is a mead made with malt.  A harmonious blend of mead and beer, with the distinctive characteristics of both. A wide range of results are possible, depending on the base style of beer, variety of honey and overall sweetness and strength. Beer flavors tend to somewhat mask typical honey flavors found in other meads.</F_S_DESCRIPTION>
+<F_S_PROFILE>OG, SRM and ABV will vary.</F_S_PROFILE>
+<F_S_INGREDIENTS>A braggot is a mead made with both honey and malt providing flavor and fermentable extract. Originally, and alternatively, a mixture of mead and ale. A braggot can be made with any type of honey, and any type of base beer style. The malt component may be derived from grain or malt extracts. The beer may be hopped or not. If any other ingredients than honey and beer are contained in the braggot, it should be entered as an Experimental Mead. Smoked braggots may be entered in this category if using smoked malt or a smoked beer as the base style; braggots made using other smoked ingredients (e.g., liquid smoke, chipotles) should be entered in the Experimental Mead style. </F_S_INGREDIENTS>
+<F_S_EXAMPLES>Rabbit&rsquo;s Foot Diabhal and Bi&egrave;re de Miele, Magic Hat Braggot, Brother Adams Braggot Barleywine Ale, White Winter Traditional Brackett</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://www.bjcp.org</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2016-10-15</_MOD_>
+<F_S_NAME>Historical Mead</F_S_NAME>
+<F_S_CATEGORY>Specialty Mead</F_S_CATEGORY>
+<F_S_GUIDE>BJCP 2015</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>M4</F_S_NUMBER>
+<F_S_TYPE>3</F_S_TYPE>
+<F_S_MIN_OG>1.0350000</F_S_MIN_OG>
+<F_S_MAX_OG>1.1700000</F_S_MAX_OG>
+<F_S_MIN_FG>0.9900000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0100000</F_S_MAX_FG>
+<F_S_MIN_IBU>0.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>0.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>0.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>2.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>50.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>18.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>A Historical Mead is a historical or indigenous mead that doesn&rsquo;t fit into another subcategory (e.g., Ethiopian tej, Polish meads). The BJCP welcomes submissions of writeups of historical or indigenous styles that fit into this category.  This mead should exhibit the character of all of the ingredients in varying degrees, and should show a good blending or balance between the various flavor elements.  Whatever ingredients are included, the result should be identifiable as a honey-based fermented beverage.</F_S_DESCRIPTION>
+<F_S_PROFILE>OG, SRM and ABV will vary.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Jadwiga, Saba Tej</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://www.bjcp.org</F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2016-10-15</_MOD_>
+<F_S_NAME>Experimental Mead</F_S_NAME>
+<F_S_CATEGORY>Specialty Mead</F_S_CATEGORY>
+<F_S_GUIDE>BJCP 2015</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>M4</F_S_NUMBER>
+<F_S_TYPE>3</F_S_TYPE>
+<F_S_MIN_OG>1.0350000</F_S_MIN_OG>
+<F_S_MAX_OG>1.1700000</F_S_MAX_OG>
+<F_S_MIN_FG>0.9900000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0100000</F_S_MAX_FG>
+<F_S_MIN_IBU>0.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>0.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>0.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>2.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>50.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>18.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>An Experimental Mead is a mead that does not fit into any other mead subcategory. This could apply to meads that blend multiple mead subcategories (unless the combination fits elsewhere, such as Melomel or Fruit and Spice Mead). Any experimental mead using additional sources of fermentables (e.g., maple syrup, molasses, brown sugar, or agave nectar), additional ingredients (e.g., liquors, smoke, etc.), alternative processes (e.g., icing), fermentation with non-traditional yeasts (e.g., Brettanomyces, Belgian lambic or ale, etc.), or other unusual ingredient, process, or technique would also be appropriate in this category. Oak-aging does not necessarily force a mead into the Experimental Mead style unless the barrel has another characteristic (such as bourbon) in addition to the wood. No mead can be &ldquo;out of style&rdquo; for this category unless it fits into another existing mead category.  This mead should exhibit the character of all of the ingredients in varying degrees, and should show a good blending or balance between the various flavor elements.  Whatever ingredients are included, the result should be identifiable as a honey-based fermented beverage.</F_S_DESCRIPTION>
+<F_S_PROFILE>OG, SRM and ABV will vary.</F_S_PROFILE>
+<F_S_INGREDIENTS></F_S_INGREDIENTS>
+<F_S_EXAMPLES>Moonlight Utopian, Hanssens/Lurgashall Mead the Gueuze, White Winter Cherry Bracket, Mountain Meadows Trickster&rsquo;s Treat Agave Mead</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://www.bjcp.org</F_S_WEB_LINK>
+</Style>
+</Data>
+<_TExpanded>1</_TExpanded>
+</Selections>

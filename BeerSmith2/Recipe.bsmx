@@ -6635,7 +6635,7 @@ Sparge Water Additions:
 <F_R_DESIRED_OG>1.0500000</F_R_DESIRED_OG>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </Recipe>
-<Recipe><_MOD_>2017-10-28</_MOD_>
+<Recipe><_MOD_>2018-06-14</_MOD_>
 <F_R_NAME>Westvleteren XII Clone</F_R_NAME>
 <F_R_BREWER></F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -6820,28 +6820,10 @@ Mouthfeel: High carbonation but no carbonic acid &ldquo;bite.&rdquo; Smooth but 
 <Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7182</TID>
-<Size>12</Size>
+<Size>11</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Misc><_MOD_>2017-10-29</_MOD_>
-<F_M_NAME>Chalk</F_M_NAME>
-<F_M_TYPE>5</F_M_TYPE>
-<F_M_USE_FOR>Water Agent</F_M_USE_FOR>
-<F_M_TEMP_VOL>1280.0000000</F_M_TEMP_VOL>
-<F_M_UNITS>1</F_M_UNITS>
-<F_M_AMOUNT>16.5000000</F_M_AMOUNT>
-<F_M_VOLUME>640.0000000</F_M_VOLUME>
-<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
-<F_M_PRICE>1.0000000</F_M_PRICE>
-<F_M_USE>1</F_M_USE>
-<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
-<F_M_TIME>60.0000000</F_M_TIME>
-<F_M_NOTES>Chalk (CaCO3) can be used as a water addition to adjust mineral content for mashing.</F_M_NOTES>
-<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
-<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
-<F_ORDER>1</F_ORDER>
-</Misc>
-<Grain><_MOD_>2017-10-29</_MOD_>
+<Data><Grain><_MOD_>2018-06-14</_MOD_>
 <F_G_NAME>Pilsner (2 Row) Bel</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -6854,7 +6836,7 @@ Mouthfeel: High carbonation but no carbonic acid &ldquo;bite.&rdquo; Smooth but 
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
 <F_G_PERCENT>59.7402597</F_G_PERCENT>
 <F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
-<F_ORDER>2</F_ORDER>
+<F_ORDER>1</F_ORDER>
 <F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
 <F_G_MOISTURE>4.0000000</F_G_MOISTURE>
 <F_G_DIASTATIC_POWER>105.0000000</F_G_DIASTATIC_POWER>
@@ -6868,7 +6850,7 @@ Mouthfeel: High carbonation but no carbonic acid &ldquo;bite.&rdquo; Smooth but 
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pilsner Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2017-10-29</_MOD_>
+<Grain><_MOD_>2018-06-14</_MOD_>
 <F_G_NAME>Pale Malt (2 Row) Bel</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -6881,7 +6863,7 @@ Mouthfeel: High carbonation but no carbonic acid &ldquo;bite.&rdquo; Smooth but 
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
 <F_G_PERCENT>31.1688312</F_G_PERCENT>
 <F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
-<F_ORDER>3</F_ORDER>
+<F_ORDER>2</F_ORDER>
 <F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
 <F_G_MOISTURE>4.0000000</F_G_MOISTURE>
 <F_G_DIASTATIC_POWER>60.0000000</F_G_DIASTATIC_POWER>
@@ -6896,7 +6878,7 @@ Higher potential yield than US, English equivalent pale ale malts</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>2017-10-29</_MOD_>
+<Hops><_MOD_>2018-06-14</_MOD_>
 <F_H_NAME>Northern Brewer</F_H_NAME>
 <F_H_ORIGIN>Germany</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -6915,12 +6897,12 @@ Aroma: Fine, dry, clean bittering hop.  Unique flavor.
 Substitutes: Hallertauer Mittelfrueh, Hallertauer
 Examples: Anchor Steam, Old Peculiar, </F_H_NOTES>
 <F_H_IBU_CONTRIB>17.3672339</F_H_IBU_CONTRIB>
-<F_ORDER>4</F_ORDER>
+<F_ORDER>3</F_ORDER>
 <F_H_USE>3</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Grain><_MOD_>2017-10-29</_MOD_>
+<Grain><_MOD_>2018-06-14</_MOD_>
 <F_G_NAME>Candi Syrup, D-180</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Candi Syrup</F_G_SUPPLIER>
@@ -6933,7 +6915,7 @@ Examples: Anchor Steam, Old Peculiar, </F_H_NOTES>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
 <F_G_PERCENT>9.0909091</F_G_PERCENT>
 <F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
-<F_ORDER>5</F_ORDER>
+<F_ORDER>4</F_ORDER>
 <F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
 <F_G_MOISTURE>4.0000000</F_G_MOISTURE>
 <F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
@@ -6947,7 +6929,7 @@ Examples: Anchor Steam, Old Peculiar, </F_H_NOTES>
 <F_G_PRICE>0.3750000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>2017-10-29</_MOD_>
+<Hops><_MOD_>2018-06-14</_MOD_>
 <F_H_NAME>Hallertauer Mittelfrueh</F_H_NAME>
 <F_H_ORIGIN>Germany</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -6965,12 +6947,12 @@ Aroma: Pleasant, assertive, mild herbal aroma
 Substitutes: Hallertauer, Mt. Hood, Liberty, Crystal
 Examples: Sam Adams Boston Lager, Sam Adams Boston Lightship</F_H_NOTES>
 <F_H_IBU_CONTRIB>6.7379889</F_H_IBU_CONTRIB>
-<F_ORDER>6</F_ORDER>
+<F_ORDER>5</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>2017-10-29</_MOD_>
+<Misc><_MOD_>2018-06-14</_MOD_>
 <F_M_NAME>Whirlfloc Tablet</F_M_NAME>
 <F_M_TYPE>1</F_M_TYPE>
 <F_M_USE_FOR>Clarity</F_M_USE_FOR>
@@ -6986,9 +6968,9 @@ Examples: Sam Adams Boston Lager, Sam Adams Boston Lightship</F_H_NOTES>
 <F_M_NOTES>Aids in clearing yeast and chill haze.  Easy to use tablet form.</F_M_NOTES>
 <F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
-<F_ORDER>7</F_ORDER>
+<F_ORDER>6</F_ORDER>
 </Misc>
-<Hops><_MOD_>2017-10-29</_MOD_>
+<Hops><_MOD_>2018-06-14</_MOD_>
 <F_H_NAME>Hersbrucker </F_H_NAME>
 <F_H_ORIGIN>Germany</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -7008,12 +6990,12 @@ Substitutions: Mt. Hood, Strisselspalt, Hallertau Mittelfruh, Liberty
 Storage: Fair (55%-65% AA after 6 months at 20 C)
 2-5% AA / 4-6% Beta</F_H_NOTES>
 <F_H_IBU_CONTRIB>2.3927338</F_H_IBU_CONTRIB>
-<F_ORDER>8</F_ORDER>
+<F_ORDER>7</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.7900000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2017-10-29</_MOD_>
+<Hops><_MOD_>1970-03-26</_MOD_>
 <F_H_NAME>Styrian Goldings</F_H_NAME>
 <F_H_ORIGIN>Slovenia</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -7031,13 +7013,31 @@ Used for: Bittering, finishing for a wide variety of European Beers. Popular in 
 Aroma: Mild, soft, grassy, floral aroma. Similar to Fuggles.
 Substitutes: Fuggles, Williamette</F_H_NOTES>
 <F_H_IBU_CONTRIB>4.3504250</F_H_IBU_CONTRIB>
-<F_ORDER>9</F_ORDER>
+<F_ORDER>8</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>2017-10-29</_MOD_>
+<Misc><_MOD_>2018-06-14</_MOD_>
 <F_M_NAME>Olive Oil</F_M_NAME>
+<F_M_TYPE>4</F_M_TYPE>
+<F_M_USE_FOR>Yeast Nutrient</F_M_USE_FOR>
+<F_M_TEMP_VOL>1280.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>13</F_M_UNITS>
+<F_M_AMOUNT>1.0000000</F_M_AMOUNT>
+<F_M_VOLUME>1280.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>1.0000000</F_M_PRICE>
+<F_M_USE>0</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>5.0000000</F_M_TIME>
+<F_M_NOTES></F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>9</F_ORDER>
+</Misc>
+<Misc><_MOD_>2018-06-14</_MOD_>
+<F_M_NAME>Servomyces</F_M_NAME>
 <F_M_TYPE>4</F_M_TYPE>
 <F_M_USE_FOR>Yeast Nutrient</F_M_USE_FOR>
 <F_M_TEMP_VOL>1280.0000000</F_M_TEMP_VOL>
@@ -7054,24 +7054,6 @@ Substitutes: Fuggles, Williamette</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>10</F_ORDER>
 </Misc>
-<Misc><_MOD_>2017-10-29</_MOD_>
-<F_M_NAME>Servomyces</F_M_NAME>
-<F_M_TYPE>4</F_M_TYPE>
-<F_M_USE_FOR>Yeast Nutrient</F_M_USE_FOR>
-<F_M_TEMP_VOL>1280.0000000</F_M_TEMP_VOL>
-<F_M_UNITS>13</F_M_UNITS>
-<F_M_AMOUNT>1.0000000</F_M_AMOUNT>
-<F_M_VOLUME>1280.0000000</F_M_VOLUME>
-<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
-<F_M_PRICE>1.0000000</F_M_PRICE>
-<F_M_USE>0</F_M_USE>
-<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
-<F_M_TIME>5.0000000</F_M_TIME>
-<F_M_NOTES></F_M_NOTES>
-<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
-<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
-<F_ORDER>11</F_ORDER>
-</Misc>
 <Yeast><_MOD_>2017-10-29</_MOD_>
 <F_Y_NAME>Abbey Ale</F_Y_NAME>
 <F_Y_LAB>White Labs</F_Y_LAB>
@@ -7083,7 +7065,7 @@ Substitutes: Fuggles, Williamette</F_H_NOTES>
 <F_Y_AMOUNT>2.0000000</F_Y_AMOUNT>
 <F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
 <F_Y_PRICE>6.0000000</F_Y_PRICE>
-<F_ORDER>12</F_ORDER>
+<F_ORDER>11</F_ORDER>
 <F_Y_IN_RECIPE>1</F_Y_IN_RECIPE>
 <F_Y_BREW_DATE>2015-02-17</F_Y_BREW_DATE>
 <F_Y_PKG_DATE>2015-02-17</F_Y_PKG_DATE>
